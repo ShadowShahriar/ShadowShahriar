@@ -112,8 +112,8 @@ By the way, in case none has told you yet today - I believe in you 💙
 
 <!-- * links -->
 
-[1]: https://codepen.io/shadow-scientist
+[1]: https://codepen.io/ShadowShahriar
 [2]: https://jsfiddle.net/user/ShadowShahriar
 [3]: https://github.com/ShadowShahriar/midix
 [4]: https://github.com/Tonejs/Tone.js
-[5]: https://codepen.io/shadow-scientist/pens/public
+[5]: https://codepen.io/ShadowShahriar/pens/public
