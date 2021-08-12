@@ -4,7 +4,7 @@ Hey~, `{name}` 👋
 
 Pleased to meet you! I am S. Shahriar, currently a front-end developer based in a beautiful South Asian country. I am a CSS geek and love to solve real-life problems with `code`, care, and of course - creativity.
 
-At the very moment, I'm learning UI/UX and A11Y. When I've enough free time, I love to build fancy projects with CSS ✨ magic ✨ and sometimes with a smidge of JavaScript.
+At the very moment, I'm learning UI/UX and A11Y. When I've enough free time, I love to build [fancy projects][5] with CSS ✨magic✨ and sometimes with a smidge of JavaScript.
 
 Luckily, I have a dedicated [CodePen profile][1] and a [JSFiddle profile][2] to help me document all my findings.
 
@@ -116,3 +116,4 @@ By the way, in case none has told you yet today - I believe in you 💙
 [2]: https://jsfiddle.net/user/ShadowShahriar
 [3]: https://github.com/ShadowShahriar/midix
 [4]: https://github.com/Tonejs/Tone.js
+[5]: https://codepen.io/shadow-scientist/pens/public
