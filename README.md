@@ -45,7 +45,7 @@ export class Shahriar {
 		this.learning = ['UI', 'UX', 'A11Y']
 		this.IDEs = ['VSCode']
 		this.preferredTheme = 'Dark'
-		this.tools = ['TypeScript', 'Sass', 'PUG', 'Node', 'Webpack', 'Prettier', 'eslint']
+		this.tools = ['TypeScript', 'Sass', 'PUG', 'Node', 'Webpack', 'Prettier', 'ESLint']
 		this.semicolons = false
 		this.indent = 'tabs'
 	}
@@ -95,6 +95,12 @@ export class Shadow extends Shahriar {
 ```
 
 </details>
+
+<p align="center">
+	<a href="#streak-stats">
+		<!-- https://git.io/streak-stats --><img src="https://github-readme-streak-stats.herokuapp.com?user=ShadowShahriar&theme=graywhite&hide_border=true" alt="<!-- My Readme streak stats should go here -->"/>
+	</a>
+</p>
 
 ---
 
