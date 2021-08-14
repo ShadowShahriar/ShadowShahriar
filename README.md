@@ -22,10 +22,12 @@ export class Shahriar {
 
 	lastName: string
 	color: string
+	dialects: string[]
 
 	constructor() {
 		this.lastName = 'Shahriar'
 		this.color = 'brown'
+		this.dialects = ['Bengali', 'English', 'Hindi']
 	}
 
 	content: string
@@ -79,7 +81,7 @@ export class Shadow extends Shahriar {
 
 	leftHanded: boolean
 	hobbies: string[]
-	funFact: string
+	funFacts: string[]
 
 	personality() {
 		this.nickName = 'Shadow'
@@ -89,7 +91,10 @@ export class Shadow extends Shahriar {
 			'I am a person who mostly enjoys alone time but loves to talk with new people.'
 		this.leftHanded = true
 		this.hobbies = ['Portrait Drawing', 'Cartoon Design', 'CSS 3D']
-		this.funFact = 'I, my teacher, and my favorite entrepreneur share the same name 😄'
+		this.funFacts = [
+			'I, my teacher, and my favorite entrepreneur share the same name 😄',
+			`My mom calls me "Choton" (a kid) even though I'm the eldest son in my family 👀`
+		]
 	}
 }
 ```
