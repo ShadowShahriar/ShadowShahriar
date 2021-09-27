@@ -1,6 +1,6 @@
 <!-- * I never knew what to write here 😂 -->
 
-Hey~, `{name}` 👋
+Hey~, `${name}` 👋
 
 Pleased to meet you! I am S. Shahriar, currently a front-end developer based in a beautiful South Asian country. I am a CSS geek and love to solve real-life problems with `code`, care, and of course - creativity.
 
@@ -115,10 +115,8 @@ Right now, I am working on a [Tone.js][4] extension called [midix][3]. This proj
 
 I'm always open to new ideas, dev discussion and collaboration. However, I might not be available for new project due to current semester exams. [Hit me up](mailto:shadowshahriar.dev@gmail.com) for anything.
 
-<!-- This code block was highly inspired by https://swizec.com/blog/complex-vs.-complicated/ -->
-
 ```
-By the way, in case none has told you yet today - I believe in you 💙
+always have faith in who you are
 ```
 
 <!-- * links -->
