@@ -10,8 +10,8 @@ I'm a **front-end developer**, **motion designer** and **illustrator** — bring
 	</picture>
 	<picture>
 		<source srcset="https://github-readme-stats.vercel.app/api?username=ShadowShahriar&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&hide_border=true" media="(prefers-color-scheme: dark)" width="46%"/>
-		<source srcset="https://github-readme-stats.vercel.app/api?username=ShadowShahriar&count_private=true&show_icons=true&theme=default&include_all_commits=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="46%" />
-		<img src="https://github-readme-stats.vercel.app/api?username=ShadowShahriar&count_private=true&show_icons=true&theme=default&include_all_commits=true&hide_border=true" width="46%" alt="<!-- GitHub Stats -->"/>
+		<source srcset="https://github-readme-stats.vercel.app/api?username=ShadowShahriar&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="46%" />
+		<img src="https://github-readme-stats.vercel.app/api?username=ShadowShahriar&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" width="46%" alt="<!-- GitHub Stats -->"/>
 	</picture>
 	<picture>
 		<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowShahriar&layout=compact&theme=nightowl&hide_border=true&langs_count=6" media="(prefers-color-scheme: dark)" width="32%" align="top"/>
