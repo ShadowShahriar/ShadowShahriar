@@ -4,8 +4,7 @@ I'm a **front-end developer**, **motion designer** and **illustrator** — bring
 
 <p align="center">
 	<picture>
-		<source srcset="https://streak-stats.demolab.com?user=ShadowShahriar&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(max-width: 768px) and (prefers-color-scheme: dark)" width="100%"/>
-		<source srcset="https://streak-stats.demolab.com?user=ShadowShahriar&theme=default&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(max-width: 768px) and (prefers-color-scheme: light)" width="100%" />
+		<source srcset="https://streak-stats.demolab.com?user=ShadowShahriar&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(max-width: 768px)" width="100%"/>
 		<source srcset="https://streak-stats.demolab.com?user=ShadowShahriar&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(prefers-color-scheme: dark)" width="47%"/>
 		<source srcset="https://streak-stats.demolab.com?user=ShadowShahriar&theme=default&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(prefers-color-scheme: light)" width="47%" />
 		<img src="https://streak-stats.demolab.com?user=ShadowShahriar&theme=default&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" width="47%" alt="<!-- Streak Stats -->"/>
