@@ -36,7 +36,7 @@ I'm a **front-end developer**, **motion designer** and **illustrator** — bring
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse102&theme=default&hide_border=true&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
 <a href="https://github.com/ShadowShahriar/cse112"><picture>
-		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=rose_pine&hide_border=true&description_lines_count=2" media="(max-width: 768px)" width="100%"/>
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=default&hide_border=true&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
