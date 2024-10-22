@@ -29,6 +29,8 @@ I'm a **front-end developer**, **motion designer** and **illustrator** — bring
 
 #### University Archive
 
+This section features everything I have learned from my university courses.
+
 <p align="center">
 <a href="https://github.com/ShadowShahriar/cse102"><picture>
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse102&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
