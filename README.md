@@ -43,3 +43,5 @@ This section features everything I have learned from my university courses.
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
 </p>
+
+<!-- More repository cards will be added later -->
