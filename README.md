@@ -1,5 +1,7 @@
 # Heyy! It's Shahriar
 
+<a href="https://wakatime.com/@ShadowShahriar"><img src="https://wakatime.com/badge/user/5956c6a3-9f19-426c-bb91-ee99647425a3.svg" alt="Total time coded since Oct 20 2024" /></a>
+
 I'm a **front-end developer**, **motion designer** and **illustrator** — bringing digital experiences to life through **code** and **visuals**.
 
 <p align="center">
@@ -41,6 +43,16 @@ This section features everything I have learned from my university courses.
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=rose_pine&hide_border=true&description_lines_count=2" media="(max-width: 768px)" width="100%"/>
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
+	</picture></a>
+<a href="https://github.com/ShadowShahriar/sdp100"><picture>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=sdp100&theme=rose_pine&hide_border=true&description_lines_count=2" media="(max-width: 768px)" width="100%"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=sdp100&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=sdp100&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
+	</picture></a>
+<a href="https://github.com/ShadowShahriar/cpp102"><picture>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cpp102&theme=rose_pine&hide_border=true&description_lines_count=2" media="(max-width: 768px)" width="100%"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cpp102&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cpp102&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
 </p>
 
