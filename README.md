@@ -43,9 +43,19 @@ This section features everything I have learned from my university courses.
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse102&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
 <a href="https://github.com/ShadowShahriar/cse112"><picture>
-		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=rose_pine&hide_border=true&description_lines_count=2" media="(max-width: 768px)" width="100%"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse112&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
+	</picture></a>
+<a href="https://github.com/ShadowShahriar/cse222"><picture>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse222&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse222&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse222&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
+	</picture></a>
+<a href="https://github.com/ShadowShahriar/cpp102"><picture>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cpp102&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cpp102&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cpp102&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
 </p>
 
