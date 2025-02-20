@@ -65,14 +65,14 @@ This section features all of my microcontroller and microprocessor-based project
 
 <p align="center">
 <a href="https://github.com/ShadowShahriar/arduino-playground"><picture>
-		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=arduino-playground&theme=rose_pine&hide_border=true&description_lines_count=1" media="(max-width: 768px)" width="100%"/>
-		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=arduino-playground&theme=rose_pine&hide_border=true&description_lines_count=1" media="(prefers-color-scheme: dark)" width="47%"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=arduino-playground&theme=default&description_lines_count=1" width="47%" alt="<!-- Repository Card -->"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=arduino-playground&theme=rose_pine&hide_border=true&description_lines_count=2" media="(max-width: 768px)" width="100%"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=arduino-playground&theme=rose_pine&hide_border=true&description_lines_count=2" media="(prefers-color-scheme: dark)" width="47%"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=arduino-playground&theme=default&description_lines_count=2" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
 <a href="https://github.com/ShadowShahriar/esp32-playground"><picture>
-		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=esp32-playground&theme=rose_pine&hide_border=true&description_lines_count=1" media="(max-width: 768px)" width="100%"/>
-		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=esp32-playground&theme=rose_pine&hide_border=true&description_lines_count=1" media="(prefers-color-scheme: dark)" width="47%"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=esp32-playground&theme=default&description_lines_count=1" width="47%" alt="<!-- Repository Card -->"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=esp32-playground&theme=rose_pine&hide_border=true&description_lines_count=2" media="(max-width: 768px)" width="100%"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=esp32-playground&theme=rose_pine&hide_border=true&description_lines_count=2" media="(prefers-color-scheme: dark)" width="47%"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=esp32-playground&theme=default&description_lines_count=2" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
 </p>
 
