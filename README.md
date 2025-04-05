@@ -73,7 +73,17 @@ This section features all of my microcontroller and microprocessor-based project
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=esp32-playground&theme=rose_pine&hide_border=true&description_lines_count=2" media="(max-width: 768px)" width="100%"/>
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=esp32-playground&theme=rose_pine&hide_border=true&description_lines_count=2" media="(prefers-color-scheme: dark)" width="47%"/>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=esp32-playground&theme=default&description_lines_count=2" width="47%" alt="<!-- Repository Card -->"/>
-	</picture></a>
+	</picture></a><br>
+<a href="https://github.com/ShadowShahriar/rpi-playground"><picture>
+<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=rpi-playground&theme=rose_pine&hide_border=true&description_lines_count=2" media="(max-width: 768px)" width="100%"/>
+<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=rpi-playground&theme=rose_pine&hide_border=true&description_lines_count=2" media="(prefers-color-scheme: dark)" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=rpi-playground&theme=default&description_lines_count=2" width="47%" alt="<!-- Repository Card -->"/>
+</picture></a>
+<a href="https://github.com/ShadowShahriar/oled-font-maker"><picture>
+<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=oled-font-maker&theme=rose_pine&hide_border=true&description_lines_count=2" media="(max-width: 768px)" width="100%"/>
+<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=oled-font-maker&theme=rose_pine&hide_border=true&description_lines_count=2" media="(prefers-color-scheme: dark)" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=oled-font-maker&theme=default&description_lines_count=2" width="47%" alt="<!-- Repository Card -->"/>
+</picture></a>
 </p>
 
 <!-- More repository cards will be added later -->
