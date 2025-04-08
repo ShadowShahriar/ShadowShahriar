@@ -1,8 +1,28 @@
 # Heyy! It's Shahriar
 
-<a href="https://wakatime.com/@ShadowShahriar"><img src="https://wakatime.com/badge/user/5956c6a3-9f19-426c-bb91-ee99647425a3.svg" alt="Total time coded since Oct 20 2024" /></a> <a href="https://www.threads.net/@shadowshahriar"><picture><source srcset="https://img.shields.io/badge/Threads-black?logo=threads&labelColor=black" media="(max-width: 768px)"/><img src="https://img.shields.io/badge/Threads-%40shadowshahriar-black?logo=threads&labelColor=black&color=grey"/></picture></a>
+<p align="center">
+<a href="https://wakatime.com/@ShadowShahriar"><img src="https://wakatime.com/badge/user/5956c6a3-9f19-426c-bb91-ee99647425a3.svg" alt="Total time coded since Oct 20 2024" /></a> <a href="https://www.threads.net/@shadowshahriar"><picture><source srcset="https://img.shields.io/badge/Threads-black?logo=threads" media="(max-width: 768px)"/><source srcset="https://img.shields.io/badge/Threads-%40shadowshahriar-black?logo=threads&labelColor=black&color=grey"/><img src="https://img.shields.io/badge/Threads-%40shadowshahriar-black?logo=threads&labelColor=black&color=grey"/></picture></a>
+</p>
 
-I'm a **front-end developer**, **motion designer** and **illustrator** — bringing digital experiences to life through **code** and **visuals**.
+I'm a **front-end developer**, **motion designer** and **illustrator** — bringing digital experiences to life through **code** and **visuals**. You can find my artworks on [**Instagram**][INSTAGRAM] and CSS experiments on [**CodePen**][CODEPEN].
+
+Currently,
+
+-   I'm working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI],
+-   I'm learning **Raspberry Pi programming** and documenting my journey on [**DEV**][DEV], [**Threads**][THREADS], and [**YouTube**][YOUTUBE].
+
+[INSTAGRAM]: https://instagram.com/shadowshahriar
+[CODEPEN]: https://codepen.io/ShadowShahriar
+[WOKWI]: https://wokwi.com/makers/shadowshahriar
+[DEV]: https://dev.to/shadowshahriar
+[THREADS]: https://www.threads.net/@shadowshahriar
+[YOUTUBE]: https://youtube.com/@ShadowShahriar
+
+---
+
+#### Statistics
+
+Is it funny to say that **JavaScript** was the first programming language I learned?
 
 <!-- https://streak-stats.demolab.com -->
 <!-- https://github-readme-streak-stats-seven-azure.vercel.app -->
