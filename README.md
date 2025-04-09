@@ -8,7 +8,7 @@ I'm a **front-end developer**, **motion designer** and **illustrator** — bring
 
 Currently,
 
--   I'm working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI],
+-   I'm working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI].
 -   I'm learning **Raspberry Pi programming** and documenting my journey on [**DEV**][DEV], [**Threads**][THREADS], and [**YouTube**][YOUTUBE].
 -   I'm practicing competitive programming on [**CodeForces**][CODEFORCES].
 
