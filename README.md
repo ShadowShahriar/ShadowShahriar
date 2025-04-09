@@ -1,7 +1,7 @@
 # Heyy! It's Shahriar
 
 <p align="center">
-<a href="https://wakatime.com/@ShadowShahriar"><img src="https://wakatime.com/badge/user/5956c6a3-9f19-426c-bb91-ee99647425a3.svg" alt="Total time coded since Oct 20 2024" /></a> <a href="https://www.threads.net/@shadowshahriar"><img src="https://img.shields.io/badge/Threads-black?logo=threads"/></a>
+<a href="https://wakatime.com/@ShadowShahriar"><img src="https://wakatime.com/badge/user/5956c6a3-9f19-426c-bb91-ee99647425a3.svg" alt="Total time coded since Oct 20 2024" /></a> <a href="https://www.threads.net/@shadowshahriar"><img src="https://img.shields.io/badge/Threads-black?logo=threads"/></a> <a href="https://codeforces.com/profile/shadowshahriar"><img src="https://img.shields.io/badge/CodeForces-black?logo=codeForces"/></a>
 </p>
 
 I'm a **front-end developer**, **motion designer** and **illustrator** — bringing digital experiences to life through **code** and **visuals**. You can find my artworks on [**Instagram**][INSTAGRAM] and CSS experiments on [**CodePen**][CODEPEN].
@@ -10,6 +10,7 @@ Currently,
 
 -   I'm working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI],
 -   I'm learning **Raspberry Pi programming** and documenting my journey on [**DEV**][DEV], [**Threads**][THREADS], and [**YouTube**][YOUTUBE].
+-   I'm practicing competitive programming on [**CodeForces**][CODEFORCES].
 
 [INSTAGRAM]: https://instagram.com/shadowshahriar
 [CODEPEN]: https://codepen.io/ShadowShahriar
@@ -17,6 +18,7 @@ Currently,
 [DEV]: https://dev.to/shadowshahriar
 [THREADS]: https://www.threads.net/@shadowshahriar
 [YOUTUBE]: https://youtube.com/@ShadowShahriar
+[CODEFORCES]: https://codeforces.com/profile/shadowshahriar
 
 ---
 
@@ -72,10 +74,10 @@ This section features everything I have learned from my university courses.
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse222&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse222&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
-<a href="https://github.com/ShadowShahriar/cpp102"><picture>
-		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cpp102&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
-		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cpp102&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cpp102&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
+<a href="https://github.com/ShadowShahriar/cp200"><picture>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cp200&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cp200&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cp200&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
 </p>
 
