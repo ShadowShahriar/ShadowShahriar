@@ -10,7 +10,7 @@ Currently,
 
 -   I'm working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI].
 -   I'm learning **Raspberry Pi programming** and documenting my journey on [**DEV**][DEV], [**Threads**][THREADS], and [**YouTube**][YOUTUBE].
--   I'm practicing competitive programming on [**CodeForces**][CODEFORCES].
+-   I'm practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
 
 [INSTAGRAM]: https://instagram.com/shadowshahriar
 [CODEPEN]: https://codepen.io/ShadowShahriar
@@ -19,6 +19,7 @@ Currently,
 [THREADS]: https://www.threads.net/@shadowshahriar
 [YOUTUBE]: https://youtube.com/@ShadowShahriar
 [CODEFORCES]: https://codeforces.com/profile/shadowshahriar
+[CODECHEF]: https://www.codechef.com/users/shadowshahriar
 
 ---
 
