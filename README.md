@@ -80,11 +80,6 @@ This section features everything I have learned from my university courses.
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cp200&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cp200&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
-<a href="https://github.com/ShadowShahriar/cse232"><picture>
-		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse232&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
-		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse232&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse232&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
-	</picture></a>
 <a href="https://github.com/ShadowShahriar/cse208"><picture>
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse208&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse208&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
@@ -99,6 +94,11 @@ This section features everything I have learned from my university courses.
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse215&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse215&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse215&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
+	</picture></a>
+<a href="https://github.com/ShadowShahriar/cse232"><picture>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse232&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
+		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse232&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=cse232&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
 <a href="https://github.com/ShadowShahriar/py200"><picture>
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=py200&theme=rose_pine&hide_border=true&description_lines_count=3" media="(max-width: 768px)" width="100%"/>
