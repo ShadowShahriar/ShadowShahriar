@@ -105,7 +105,10 @@ This section features everything I have learned from my university courses.
 		<source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=py200&theme=rose_pine&hide_border=true&description_lines_count=3" media="(prefers-color-scheme: dark)" width="47%"/>
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowShahriar&repo=py200&theme=default&description_lines_count=3" width="47%" alt="<!-- Repository Card -->"/>
 	</picture></a>
-<a href="#university-archive"><img src="placeholder.svg" width="47%" alt="<!-- Repository Card -->"/></a>
+<a href="#university-archive"><picture>
+		<source srcset="placeholder.svg" media="(max-width: 768px)" width="0%" height="0%"/>
+		<img src="placeholder.svg" width="47%" alt="<!-- Repository Card -->"/>
+	</picture></a>
 </p>
 
 #### Experiments Archive
