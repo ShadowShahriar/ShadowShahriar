@@ -1,0 +1,11 @@
+# === Windows specific ===
+desktop.ini
+
+# === npm ===
+node_modules
+
+# === environment variables ===
+.env
+
+# === old files ===
+.old
