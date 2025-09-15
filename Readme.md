@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1757931543115 -->
+<!-- 1757931773856 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -47,16 +47,16 @@ Is it funny to say that **JavaScript** was the first programming language I lear
 <picture><source srcset="https://github-readme-stats.vercel.app/api/?theme=rose_pine&hide_border=true&username=ShadowShahriar&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=percentile" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats.vercel.app/api/?theme=rose_pine&hide_border=true&username=ShadowShahriar&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=percentile" media="(prefers-color-scheme: dark)" width="47%"/><img src="https://github-readme-stats.vercel.app/api/?theme=default&hide_border=false&username=ShadowShahriar&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=percentile" width="47%" alt="<!-- GitHub Stats -->"/></picture>
 <!-- END COMP-STATS -->
 <!-- BEGIN COMP-LANG -->
-<picture><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?theme=rose_pine&hide_border=true&username=ShadowShahriar&layout=compact&langs_count=6" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?theme=rose_pine&hide_border=true&username=ShadowShahriar&layout=compact&langs_count=6" media="(prefers-color-scheme: dark)" width="32%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=default&hide_border=false&username=ShadowShahriar&layout=compact&langs_count=6" width="47%" alt="<!-- Language Stats -->"/></picture>
+<picture><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?theme=rose_pine&hide_border=true&username=ShadowShahriar&layout=compact&langs_count=6" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats.vercel.app/api/top-langs/?theme=rose_pine&hide_border=true&username=ShadowShahriar&layout=compact&langs_count=6" media="(prefers-color-scheme: dark)" width="32%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=default&hide_border=false&username=ShadowShahriar&layout=compact&langs_count=6" width="32%" alt="<!-- Language Stats -->"/></picture>
 <!-- END COMP-LANG -->
 <!-- BEGIN COMP-TIME -->
-<picture><source srcset="https://github-readme-stats.vercel.app/api/wakatime/?theme=rose_pine&hide_border=true&username=ShadowShahriar&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats.vercel.app/api/wakatime/?theme=rose_pine&hide_border=true&username=ShadowShahriar&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" media="(prefers-color-scheme: dark)" width="62%" align="top"/><img src="https://github-readme-stats.vercel.app/api/wakatime/?theme=default&hide_border=false&username=ShadowShahriar&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" width="47%" alt="<!-- Time Spend -->" align="top"/></picture>
+<picture><source srcset="https://github-readme-stats.vercel.app/api/wakatime/?theme=rose_pine&hide_border=true&username=ShadowShahriar&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-stats.vercel.app/api/wakatime/?theme=rose_pine&hide_border=true&username=ShadowShahriar&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" media="(prefers-color-scheme: dark)" width="62%" align="top"/><img src="https://github-readme-stats.vercel.app/api/wakatime/?theme=default&hide_border=false&username=ShadowShahriar&layout=compact&display_format=time&langs_count=4&custom_title=Time%20Spent" width="62%" alt="<!-- Time Spend -->" align="top"/></picture>
 <!-- END COMP-TIME -->
 </p>
 
 <!-- BEGIN ACTIVE-TODAY -->
-<p>In case you were wondering, today I coded for <b>5 hrs 55 mins</b> and I was last active at <b>12:49 AM</b> 😉</p>
-<ul><li>I coded for <b>4 hrs 36 mins</b>.</li><li>I authored documentation for <b>50 mins</b>.</li><li>I wrote unit tests for <b>28 mins</b>.</li></ul>
+<p>In case you were wondering, today I coded for <b>6 hrs</b> and I was last active at <b>12:49 AM</b> 😉</p>
+<ul><li>I coded for <b>4 hrs 36 mins</b>.</li><li>I authored documentation for <b>55 mins</b>.</li><li>I wrote unit tests for <b>28 mins</b>.</li></ul>
 <!-- END ACTIVE-TODAY -->
 
 ---
