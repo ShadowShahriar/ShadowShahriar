@@ -2,6 +2,7 @@ import { readFile, writeFile } from 'fs/promises'
 const fs_encoding = 'utf-8'
 const fs_cfg = './config.json'
 const fs_out = './Readme.md'
+const fs_temp = './Readme.temp.md'
 
 const matchmaker = title => new RegExp(`(<!-- BEGIN ${title} -->)([\\s\\S]*?)(<!-- END ${title} -->)`, 'gm')
 export const dynamic = (block, str, data) => str.replace(matchmaker(block), `$1\n${data}\n$3`)
@@ -36,5 +37,7 @@ export const read = async _ => {
 }
 
 export const write = async data => {
-	await writeFile(fs_out, data, fs_encoding)
+	const output = process.env['PRODUCTION'] ? fs_out : fs_temp
+	console.log('✅ Output file:', output)
+	await writeFile(output, data, fs_encoding)
 }
