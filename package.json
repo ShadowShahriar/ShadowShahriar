@@ -3,6 +3,7 @@
 	"dependencies": {
 		"dotenv": "^17.2.2",
 		"googleapis": "^159.0.0",
-		"iso8601-duration": "^2.1.2"
+		"iso8601-duration": "^2.1.2",
+		"octokit": "^5.0.3"
 	}
 }
