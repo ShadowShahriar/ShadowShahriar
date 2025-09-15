@@ -1,4 +1,5 @@
 import env from '../src/env.js'
+import { github_stars } from '../src/api/github.js'
 import { instagram_stats } from '../src/api/instagram.js'
 import { threads_stats } from '../src/api/threads.js'
 import { youtube_stats, youtube_vids } from '../src/api/youtube.js'
@@ -6,6 +7,12 @@ import { wakatime_today, wakatime_total } from '../src/api/wakatime.js'
 env()
 
 async function main() {
+	console.log('')
+
+	const gh_stars = await github_stars({ repo: 'ShadowShahriar/ShadowShahriar' })
+	console.log('Repository stars:', gh_stars.count_int, `(${gh_stars.count})`)
+	console.log('Stargazers')
+	console.log(gh_stars.people)
 	console.log('')
 
 	const yt_vids = await youtube_vids()
