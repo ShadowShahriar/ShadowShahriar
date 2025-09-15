@@ -114,6 +114,8 @@ This section features all of my microcontroller and microprocessor-based project
 <!-- END PINNED-EXPERIMENTS-ARCHIVE -->
 </p>
 
+---
+
 #### About This Project
 
 <!-- BEGIN GITHUB-STARS -->
