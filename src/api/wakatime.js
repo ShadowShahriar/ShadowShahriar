@@ -38,7 +38,7 @@ export async function wakatime_today(usr) {
 		const json2 = await request2.json()
 		const data2 = json2.data
 		if (data2.length > 0) {
-			const { duration, time } = data2[data.length - 1]
+			const { duration, time } = data2[data2.length - 1]
 			const total = (duration + time) * 1000
 			const timeLastActive = new Date(total).toLocaleTimeString('en-US', {
 				hour: 'numeric',
