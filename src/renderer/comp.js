@@ -13,7 +13,7 @@ export const comp = (obj, theme) => {
 		`<picture>` +
 		`<source srcset="${src_dark}" media="(max-width: 768px)" width="${obj.sizes[0]}%"/>` +
 		`<source srcset="${src_dark}" media="(prefers-color-scheme: dark)" width="${obj.sizes[1]}%"${align}/>` +
-		`<img src="${src_light}" width="47%" alt="${obj.alt}"${align}/>` +
+		`<img src="${src_light}" width="${obj.sizes[1]}%" alt="${obj.alt}"${align}/>` +
 		`</picture>`
 	)
 }
