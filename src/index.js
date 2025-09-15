@@ -6,6 +6,7 @@ import { wakatime } from './renderer/render_wakatime.js'
 import { youtube } from './renderer/render_youtube.js'
 import { instagram } from './renderer/render_instagram.js'
 import { threads } from './renderer/render_threads.js'
+import { github } from './renderer/render_github.js'
 env()
 
 async function main() {
@@ -56,6 +57,13 @@ async function main() {
 	console.time('✅ Threads')
 	readme = await threads(readme, cfg, clean, insta_shield[1])
 	console.timeEnd('✅ Threads')
+
+	// ==========================
+	// === Dynamic Stargazers ===
+	// ==========================
+	console.time('✅ GitHub Stargazers')
+	readme = await github(readme, cfg, clean)
+	console.timeEnd('✅ GitHub Stargazers')
 
 	readme = dynamic(updateTag, readme, clean ? '' : `<!-- ${Date.now()} -->`)
 	await write(readme)
