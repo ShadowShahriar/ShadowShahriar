@@ -1,11 +1,16 @@
 import env from '../src/env.js'
 import { instagram_stats } from '../src/api/instagram.js'
 import { threads_stats } from '../src/api/threads.js'
-import { youtube_stats } from '../src/api/youtube.js'
+import { youtube_stats, youtube_vids } from '../src/api/youtube.js'
 import { wakatime_today, wakatime_total } from '../src/api/wakatime.js'
 env()
 
 async function main() {
+	console.log('')
+
+	const yt_vids = await youtube_vids()
+	console.log('YouTube videos')
+	console.log(yt_vids)
 	console.log('')
 
 	const yt_stats = await youtube_stats()
