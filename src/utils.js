@@ -4,6 +4,7 @@ const fs_cfg = './config.json'
 const fs_out = './Readme.md'
 const fs_temp = './Readme.temp.md'
 
+const symbols = /[\r\n%#()<>?[\\\]^`{|}]/g
 const matchmaker = title => new RegExp(`(<!-- BEGIN ${title} -->)([\\s\\S]*?)(<!-- END ${title} -->)`, 'gm')
 export const dynamic = (block, str, data) => str.replace(matchmaker(block), `$1\n${data}\n$3`)
 export const badge_endpoint = 'https://custom-icon-badges.demolab.com/badge'
@@ -19,6 +20,14 @@ export const serialize = (base, obj) =>
 export const shortnum = n => {
 	const opts = { maximumFractionDigits: 1, notation: 'compact', compactDisplay: 'short' }
 	return new Intl.NumberFormat('en-US', opts).format(n)
+}
+
+// === borrowed from https://github.com/yoksel/url-encoder/blob/master/src/js/script.js ===
+export const encodeSVG = data => {
+	data = data.replace(/"/g, `'`)
+	data = data.replace(/>\s{1,}</g, `><`)
+	data = data.replace(/\s{2,}/g, ` `)
+	return data.replace(symbols, encodeURIComponent)
 }
 
 export const unixTime = str => {
