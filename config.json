@@ -1,0 +1,84 @@
+{
+	"wakatimeTag": "TOTAL-TIME",
+	"activeTag": "ACTIVE-TODAY",
+	"updateTag": "LAST-UPDATED",
+	"vidsTag": "YOUTUBE-CARDS",
+	"subsTag": "YOUTUBE-SUBS",
+	"viewsTag": "YOUTUBE-VIEWS",
+	"instaTag": "INSTAGRAM-FOLLOWERS",
+	"threadsTag": "THREADS-FOLLOWERS",
+	"shield": "for-the-badge",
+	"theme": {
+		"light": { "colorscheme": "default", "border": true },
+		"dark": { "colorscheme": "rose_pine", "border": false }
+	},
+	"pinned": {
+		"PINNED-UNIVERSITY-ARCHIVE": [
+			["ShadowShahriar/cse102", 3],
+			["ShadowShahriar/cse112", 3],
+			["ShadowShahriar/cse222", 3],
+			["ShadowShahriar/cp200", 3],
+			["ShadowShahriar/cse208", 3],
+			["ShadowShahriar/cse210", 3],
+			["ShadowShahriar/cse215", 3],
+			["ShadowShahriar/cse232", 3],
+			["ShadowShahriar/py200", 2]
+		],
+		"PINNED-EXPERIMENTS-ARCHIVE": [
+			["ShadowShahriar/arduino-playground", 2],
+			["ShadowShahriar/esp32-playground", 2],
+			["ShadowShahriar/rpi-playground", 2],
+			["ShadowShahriar/oled-font-maker", 2],
+			["ShadowShahriar/midi", 2]
+		]
+	},
+	"components": {
+		"COMP-STREAK": {
+			"api": "https://github-readme-streak-stats-seven-azure.vercel.app",
+			"alt": "<!-- Streak Stats -->",
+			"sizes": [100, 47],
+			"opts": {
+				"user": "ShadowShahriar",
+				"border_radius": 5,
+				"date_format": "j M[ Y]",
+				"card_height": 207
+			}
+		},
+		"COMP-STATS": {
+			"api": "https://github-readme-stats.vercel.app/api",
+			"alt": "<!-- GitHub Stats -->",
+			"sizes": [100, 47],
+			"opts": {
+				"username": "ShadowShahriar",
+				"count_private": true,
+				"show_icons": true,
+				"include_all_commits": true,
+				"custom_title": "GitHub Stats",
+				"rank_icon": "percentile"
+			}
+		},
+		"COMP-LANG": {
+			"api": "https://github-readme-stats.vercel.app/api/top-langs",
+			"alt": "<!-- Language Stats -->",
+			"sizes": [100, 32],
+			"opts": {
+				"username": "ShadowShahriar",
+				"layout": "compact",
+				"langs_count": 6
+			}
+		},
+		"COMP-TIME": {
+			"api": "https://github-readme-stats.vercel.app/api/wakatime",
+			"alt": "<!-- Time Spend -->",
+			"sizes": [100, 62],
+			"align": "top",
+			"opts": {
+				"username": "ShadowShahriar",
+				"layout": "compact",
+				"display_format": "time",
+				"langs_count": 4,
+				"custom_title": "Time Spent"
+			}
+		}
+	}
+}
