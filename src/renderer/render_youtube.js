@@ -64,9 +64,9 @@ const youtube_cards = (data, cfg) => {
 		})
 		const card =
 			`<a href="https://www.youtube.com/watch?v=${id}"><picture>` +
-			`<source srcset="${src_dark}" media="(max-width: 768px)" width="100%"/>` +
-			`<source srcset="${src_dark}" media="(prefers-color-scheme: dark)"/>` +
-			`<img src="${src_light}" alt="${title}" title="${title}"/></picture></a>`
+			`<source srcset="${src_dark}" media="(max-width: 768px)" width="90%"/>` +
+			`<source srcset="${src_dark}" media="(prefers-color-scheme: dark)" width="250px"/>` +
+			`<img src="${src_light}" alt="${title}" title="${title}" width="250px"/></picture></a>`
 		cards.push(card)
 	}
 	return cards.join('\n')
