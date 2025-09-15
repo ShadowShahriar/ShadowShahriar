@@ -1,14 +1,14 @@
 import { github_stars } from '../api/github.js'
 import { dynamic, encodeSVG } from '../utils.js'
 
-const round_corners = true
+const round_corners = false
 const profile_icon = async (url, roundness = 5) => {
 	const req = await fetch(url)
 	const arrayBuffer = await req.arrayBuffer()
 	const buffer = Buffer.from(arrayBuffer)
 	const base64String = buffer.toString('base64')
 	const w = 40
-	const structure = `<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width="${w}" height="${w}" viewBox="0 0 ${w} ${w}"><image width="${w}" height="${w}" clip-path="inset(0% round ${roundness}px)" href="data:image/jpeg;base64,${base64String}"/></svg>`
+	const structure = `<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width="${w}" height="${w}" viewBox="0 0 ${w} ${w}"><image width="${w}" height="${w}" clip-path="inset(0% round ${roundness}px)" href="data:image/png;base64,${base64String}"/></svg>`
 	return 'data:image/svg+xml,' + encodeSVG(structure)
 }
 
