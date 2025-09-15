@@ -20,6 +20,11 @@ export const shortnum = n => {
 	return new Intl.NumberFormat('en-US', opts).format(n)
 }
 
+export const unixTime = str => {
+	const date = new Date(str)
+	return Math.floor(date.getTime() / 1000)
+}
+
 export const readConfig = async _ => {
 	const cfgfile = await readFile(fs_cfg, fs_encoding)
 	return JSON.parse(cfgfile)
