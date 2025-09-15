@@ -1,7 +1,7 @@
 name: Dynamic Readme
 on:
     schedule:
-        - cron: '0 */5 * * *'
+        - cron: '0 */2 * * *'
     workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
             - uses: actions/setup-node@v5
               with:
                   node-version: 20
-            - run: npm install
+            - run: npm ci
             - run: node src/index.js
               env:
                   PRODUCTION: true
@@ -30,6 +30,7 @@ jobs:
                   INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
                   THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
                   THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+                  GH_PAT: ${{ secrets.GH_PAT }}
             - run: |
                   git add Readme.md
                   git commit -m "🚀 Update Readme.md"
