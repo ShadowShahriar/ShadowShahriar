@@ -1,0 +1,36 @@
+name: Dynamic Readme
+on:
+    schedule:
+        - cron: '0 */5 * * *'
+    workflow_dispatch:
+
+jobs:
+    repo_cards:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v5.0.0
+            - run: |
+                  git config --global user.name "github-actions[bot]"
+                  git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git pull
+            - uses: actions/setup-node@v5
+              with:
+                  node-version: 20
+            - run: npm install
+            - run: node src/index.js
+              env:
+                  PRODUCTION: true
+                  YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+                  YOUTUBE_PLAYLIST_ID: ${{ secrets.YOUTUBE_PLAYLIST_ID }}
+                  YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+                  WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+                  WAKATIME_USER_NAME: ${{ secrets.WAKATIME_USER_NAME }}
+                  INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+                  THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+                  THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+            - run: |
+                  git add Readme.md
+                  git commit -m "🚀 Update Readme.md"
+                  git push
