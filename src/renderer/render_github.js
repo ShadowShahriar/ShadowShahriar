@@ -12,13 +12,13 @@ const profile_icon = async (url, roundness = 5) => {
 	return 'data:image/svg+xml,' + encodeSVG(structure)
 }
 
-const github_stargazers = async stars => {
+const github_stargazers = async (stars, repo) => {
 	const max_people = 10
 	const { count, count_int, people } = stars
 
 	const noun = count_int === 1 ? 'person' : 'people'
 	const more = count_int > max_people ? ' including...' : '.'
-	const caption = `<b>${count} ${noun}</b> ⭐ starred this repository${more}`
+	const caption = `<b>${count} ${noun}</b> ⭐ <a href="https://github.com/${repo}">starred this repository</a>${more}`
 	const person = async obj => {
 		let img_tag = obj.pfp
 		if (round_corners) img_tag = await profile_icon(obj.pfp)
@@ -35,9 +35,9 @@ const github_stargazers = async stars => {
 }
 
 export const github = async (input, cfg, clean) => {
-	const { githubTag } = cfg
+	const { githubTag, repo } = cfg
 	const gh_stars = await github_stars(cfg)
-	const gh_stargazers = await github_stargazers(gh_stars)
+	const gh_stargazers = await github_stargazers(gh_stars, repo)
 
 	let data = input
 	data = dynamic(githubTag, data, clean ? '' : gh_stargazers)
