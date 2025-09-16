@@ -55,7 +55,9 @@ Is it funny to say that **JavaScript** was the first programming language I lear
 </p>
 
 <!-- BEGIN ACTIVE-TODAY -->
+
 Unfortunately, I couldn't code today 🙁
+
 <!-- END ACTIVE-TODAY -->
 
 ---
@@ -121,3 +123,6 @@ This section features all of my microcontroller and microprocessor-based project
 <p><b>2 people</b> ⭐ starred this repository.</p>
 <p align="left"><a href="https://github.com/underscoDe"><img src="https://avatars.githubusercontent.com/u/65609383?v=4" width="40px" title="@underscoDe"/></a> <a href="https://github.com/ShadowShahriar"><img src="https://avatars.githubusercontent.com/u/79012744?v=4" width="40px" title="@ShadowShahriar"/></a> </p>
 <!-- END GITHUB-STARS -->
+
+<!-- BEGIN README-LAST-UPDATED -->
+<!-- END README-LAST-UPDATED -->
