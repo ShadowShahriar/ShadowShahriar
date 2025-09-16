@@ -7,12 +7,13 @@ import { youtube } from './renderer/render_youtube.js'
 import { instagram } from './renderer/render_instagram.js'
 import { threads } from './renderer/render_threads.js'
 import { github } from './renderer/render_github.js'
+import { lastUpdated } from './renderer/render_last_updated.js'
 env()
 
 async function main() {
 	const clean = false
 	const cfg = await readConfig()
-	const { pinned, components, theme, updateTag } = cfg
+	const { pinned, components, theme } = cfg
 	let readme = await read()
 
 	// ===========================
@@ -65,7 +66,13 @@ async function main() {
 	readme = await github(readme, cfg, clean)
 	console.timeEnd('✅ GitHub Stargazers')
 
-	readme = dynamic(updateTag, readme, clean ? '' : `<!-- ${Date.now()} -->`)
+	// ====================
+	// === Last Updated ===
+	// ====================
+	console.time('✅ Last Updated')
+	readme = lastUpdated(readme, cfg, clean)
+	console.timeEnd('✅ Last Updated')
+
 	await write(readme)
 }
 main()
