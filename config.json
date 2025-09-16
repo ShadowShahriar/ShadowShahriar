@@ -3,6 +3,7 @@
 	"wakatimeTag": "TOTAL-TIME",
 	"activeTag": "ACTIVE-TODAY",
 	"updateTag": "LAST-UPDATED",
+	"lastUpdatedTag": "README-LAST-UPDATED",
 	"vidsTag": "YOUTUBE-CARDS",
 	"subsTag": "YOUTUBE-SUBS",
 	"viewsTag": "YOUTUBE-VIEWS",
