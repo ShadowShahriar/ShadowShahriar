@@ -21,7 +21,7 @@ export const lastUpdated = (input, cfg, clean) => {
 		timeZone
 	}).format(dateObj)
 
-	const block = `<p>This Readme file was last updated on <b>${partDate}</b> at <b>${partTime} BST</b></p>`
+	const block = `<p>This Readme file was last updated on <b>${partDate}</b> at <b>${partTime} BST</b>.</p>`
 	let data = input
 	data = dynamic(lastUpdatedTag, data, clean ? '' : block)
 	data = dynamic(updateTag, data, clean ? '' : `<!-- ${Date.now()} -->`)
