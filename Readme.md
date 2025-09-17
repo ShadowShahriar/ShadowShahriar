@@ -1,12 +1,12 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1758133906390 -->
+<!-- 1758140618692 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
 
 <p align="center">
 <!-- BEGIN TOTAL-TIME -->
-<a href="https://wakatime.com/@ShadowShahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/373%20hrs%2029%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/373%20hrs%2029%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/373%20hrs%2029%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" alt="Total time coded" title="Total time coded"/></picture></a>
+<a href="https://wakatime.com/@ShadowShahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/374%20hrs%2027%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/374%20hrs%2027%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/374%20hrs%2027%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" alt="Total time coded" title="Total time coded"/></picture></a>
 <!-- END TOTAL-TIME -->
 <!-- BEGIN THREADS-FOLLOWERS -->
 <a href="https://www.threads.com/@shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/779-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/779-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/779-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
@@ -118,10 +118,10 @@ This section features all of my microcontroller and microprocessor-based project
 #### About This Project
 
 <!-- BEGIN GITHUB-STARS -->
-<p><b>6 people</b> ⭐ <a href="https://github.com/ShadowShahriar/ShadowShahriar">starred this repository</a>.</p>
-<p align="left"><a href="https://github.com/BaHithBENON"><img src="https://avatars.githubusercontent.com/u/52800154?v=4" width="40px" title="@BaHithBENON"/></a> <a href="https://github.com/Heidi372"><img src="https://avatars.githubusercontent.com/u/75943262?v=4" width="40px" title="@Heidi372"/></a> <a href="https://github.com/nonakav"><img src="https://avatars.githubusercontent.com/u/212370950?v=4" width="40px" title="@nonakav"/></a> <a href="https://github.com/blvckX-chk"><img src="https://avatars.githubusercontent.com/u/60050505?v=4" width="40px" title="@blvckX-chk"/></a> <a href="https://github.com/underscoDe"><img src="https://avatars.githubusercontent.com/u/65609383?v=4" width="40px" title="@underscoDe"/></a> <a href="https://github.com/ShadowShahriar"><img src="https://avatars.githubusercontent.com/u/79012744?v=4" width="40px" title="@ShadowShahriar"/></a> </p>
+<p><b>7 people</b> ⭐ <a href="https://github.com/ShadowShahriar/ShadowShahriar">starred this repository</a>.</p>
+<p align="left"><a href="https://github.com/Krist22"><img src="https://avatars.githubusercontent.com/u/87985901?v=4" width="40px" title="@Krist22"/></a> <a href="https://github.com/BaHithBENON"><img src="https://avatars.githubusercontent.com/u/52800154?v=4" width="40px" title="@BaHithBENON"/></a> <a href="https://github.com/Heidi372"><img src="https://avatars.githubusercontent.com/u/75943262?v=4" width="40px" title="@Heidi372"/></a> <a href="https://github.com/nonakav"><img src="https://avatars.githubusercontent.com/u/212370950?v=4" width="40px" title="@nonakav"/></a> <a href="https://github.com/blvckX-chk"><img src="https://avatars.githubusercontent.com/u/60050505?v=4" width="40px" title="@blvckX-chk"/></a> <a href="https://github.com/underscoDe"><img src="https://avatars.githubusercontent.com/u/65609383?v=4" width="40px" title="@underscoDe"/></a> <a href="https://github.com/ShadowShahriar"><img src="https://avatars.githubusercontent.com/u/79012744?v=4" width="40px" title="@ShadowShahriar"/></a> </p>
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>September 18, 2025</b> at <b>12:31 AM BST</b>.</p>
+<p>This Readme file was last updated on <b>September 18, 2025</b> at <b>2:23 AM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
