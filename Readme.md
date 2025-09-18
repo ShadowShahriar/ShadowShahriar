@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1758177198649 -->
+<!-- 1758184168454 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -9,7 +9,7 @@
 <a href="https://wakatime.com/@ShadowShahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/374%20hrs%2027%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/374%20hrs%2027%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/374%20hrs%2027%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" alt="Total time coded" title="Total time coded"/></picture></a>
 <!-- END TOTAL-TIME -->
 <!-- BEGIN THREADS-FOLLOWERS -->
-<a href="https://www.threads.com/@shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/781-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/781-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/781-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
+<a href="https://www.threads.com/@shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/782-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/782-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/782-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
 <!-- END THREADS-FOLLOWERS -->
 <!-- BEGIN INSTAGRAM-FOLLOWERS -->
 <a href="https://instagram.com/shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/511-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/511-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/511-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" alt="Follow me on Instagram" title="Follow me on Instagram"/></picture></a>
@@ -124,5 +124,5 @@ This section features all of my microcontroller and microprocessor-based project
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>September 18, 2025</b> at <b>12:33 PM BST</b>.</p>
+<p>This Readme file was last updated on <b>September 18, 2025</b> at <b>2:29 PM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
