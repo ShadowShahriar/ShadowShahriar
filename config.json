@@ -10,7 +10,10 @@
 	"instaTag": "INSTAGRAM-FOLLOWERS",
 	"threadsTag": "THREADS-FOLLOWERS",
 	"githubTag": "GITHUB-STARS",
+	"ghViewsTag": "GITHUB-PROFILE-VIEWS",
+	"hireTag": "HIREABLE",
 	"shield": "for-the-badge",
+	"jobPreference": "freelancing",
 	"theme": {
 		"light": { "colorscheme": "default", "border": true },
 		"dark": { "colorscheme": "rose_pine", "border": false }
