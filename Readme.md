@@ -8,15 +8,14 @@
 <!-- BEGIN TOTAL-TIME -->
 <a href="https://wakatime.com/@ShadowShahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/374%20hrs%2042%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/374%20hrs%2042%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/374%20hrs%2042%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" alt="Total time coded" title="Total time coded"/></picture></a>
 <!-- END TOTAL-TIME -->
+<!-- BEGIN GITHUB-PROFILE-VIEWS -->
+<!-- END GITHUB-PROFILE-VIEWS -->
 <!-- BEGIN THREADS-FOLLOWERS -->
 <a href="https://www.threads.com/@shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/785-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/785-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/785-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
 <!-- END THREADS-FOLLOWERS -->
 <!-- BEGIN INSTAGRAM-FOLLOWERS -->
 <a href="https://instagram.com/shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/513-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/513-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/513-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" alt="Follow me on Instagram" title="Follow me on Instagram"/></picture></a>
 <!-- END INSTAGRAM-FOLLOWERS -->
-<!-- BEGIN GITHUB-PROFILE-VIEWS -->
-<a href="#"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/20.1K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/20.1K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/20.1K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" alt="GitHub Profile Views" title="GitHub Profile Views"/></picture></a>
-<!-- END GITHUB-PROFILE-VIEWS -->
 </p>
 
 I'm a **front-end developer**, **motion designer** and **illustrator** — bringing digital experiences to life through **code** and **visuals**. You can find my artworks on [**Instagram**][INSTAGRAM] and CSS experiments on [**CodePen**][CODEPEN].
@@ -28,7 +27,9 @@ Currently,
 -   I'm practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
 
 <!-- BEGIN HIREABLE -->
+
 Yes, I am open to <b>freelancing</b> opportunities.
+
 <!-- END HIREABLE -->
 
 [INSTAGRAM]: https://instagram.com/shadowshahriar
