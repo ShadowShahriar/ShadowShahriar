@@ -14,6 +14,8 @@
 <!-- BEGIN INSTAGRAM-FOLLOWERS -->
 <a href="https://instagram.com/shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/513-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/513-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/513-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" alt="Follow me on Instagram" title="Follow me on Instagram"/></picture></a>
 <!-- END INSTAGRAM-FOLLOWERS -->
+<!-- BEGIN GITHUB-PROFILE-VIEWS -->
+<!-- END GITHUB-PROFILE-VIEWS -->
 </p>
 
 I'm a **front-end developer**, **motion designer** and **illustrator** — bringing digital experiences to life through **code** and **visuals**. You can find my artworks on [**Instagram**][INSTAGRAM] and CSS experiments on [**CodePen**][CODEPEN].
@@ -23,6 +25,9 @@ Currently,
 -   I'm working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI].
 -   I'm learning **Raspberry Pi programming** and documenting my journey on [**DEV**][DEV], [**Threads**][THREADS], and [**YouTube**][YOUTUBE].
 -   I'm practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
+
+<!-- BEGIN HIREABLE -->
+<!-- END HIREABLE -->
 
 [INSTAGRAM]: https://instagram.com/shadowshahriar
 [CODEPEN]: https://codepen.io/ShadowShahriar
