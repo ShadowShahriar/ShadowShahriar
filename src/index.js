@@ -8,6 +8,7 @@ import { instagram } from './renderer/render_instagram.js'
 import { threads } from './renderer/render_threads.js'
 import { github } from './renderer/render_github.js'
 import { lastUpdated } from './renderer/render_last_updated.js'
+import { profile_info } from './renderer/render_gh_profile.js'
 env()
 
 async function main() {
@@ -65,6 +66,13 @@ async function main() {
 	console.time('✅ GitHub Stargazers')
 	readme = await github(readme, cfg, clean)
 	console.timeEnd('✅ GitHub Stargazers')
+
+	// ==================================
+	// === GitHub Profile Information ===
+	// ==================================
+	console.time('✅ GitHub Profile Info')
+	readme = await profile_info(readme, cfg, clean)
+	console.timeEnd('✅ GitHub Profile Info')
 
 	// ====================
 	// === Last Updated ===
