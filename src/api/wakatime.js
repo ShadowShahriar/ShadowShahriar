@@ -64,7 +64,8 @@ export async function wakatime_today(usr) {
 				`today I coded for <b>${codedToday}</b>`,
 				`and I was last active at <b>${timeLastActive}</b> 😉`
 			]
-			return `<p>${parts.join(' ')}</p>\n<ul>${list_items.join('')}</ul>`
+			const breakdown = list_items.length > 1 ? `\n<ul>${list_items.join('')}</ul>` : ''
+			return `<p>${parts.join(' ')}</p>${breakdown}`
 		}
 	} else {
 		return "Unfortunately, I couldn't code today 🙁"
