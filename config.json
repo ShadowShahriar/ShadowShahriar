@@ -35,7 +35,8 @@
 			["ShadowShahriar/esp32-playground", 2],
 			["ShadowShahriar/rpi-playground", 2],
 			["ShadowShahriar/oled-font-maker", 2],
-			["ShadowShahriar/mini-projects", 2]
+			["ShadowShahriar/mini-projects", 2],
+			["ShadowShahriar/readme-toold", 2]
 		]
 	},
 	"components": {
