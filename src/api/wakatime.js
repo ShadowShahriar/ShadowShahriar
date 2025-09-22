@@ -56,7 +56,8 @@ export async function wakatime_today(usr) {
 				else activity_past = 'wrote unit tests'
 
 				const time = item.text
-				list_items.push(`<li>I ${activity_past} for <b>${time}</b>.</li>`)
+				const time_seconds = item.total_seconds
+				if (time_seconds >= 30) list_items.push(`<li>I ${activity_past} for <b>${time}</b>.</li>`)
 			}
 
 			const parts = [
