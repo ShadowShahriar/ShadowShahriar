@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1761137483154 -->
+<!-- 1761148851082 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -15,7 +15,7 @@
 <a href="https://www.threads.com/@shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/772-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/772-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/772-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
 <!-- END THREADS-FOLLOWERS -->
 <!-- BEGIN INSTAGRAM-FOLLOWERS -->
-<a href="https://instagram.com/shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/539-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/539-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/539-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" alt="Follow me on Instagram" title="Follow me on Instagram"/></picture></a>
+<a href="https://instagram.com/shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/538-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/538-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/538-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" alt="Follow me on Instagram" title="Follow me on Instagram"/></picture></a>
 <!-- END INSTAGRAM-FOLLOWERS -->
 </p>
 
@@ -62,7 +62,7 @@ Is it funny to say that **JavaScript** was the first programming language I lear
 </p>
 
 <!-- BEGIN ACTIVE-TODAY -->
-Unfortunately, I couldn't code today 🙁
+<p>In case you were wondering, today I coded for <b>2 hrs 39 mins</b> and I was last active at <b>9:58 PM</b> 😉</p>
 <!-- END ACTIVE-TODAY -->
 
 ---
@@ -132,5 +132,5 @@ This section features all of my microcontroller and microprocessor-based project
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>October 22, 2025</b> at <b>6:51 PM BST</b>.</p>
+<p>This Readme file was last updated on <b>October 22, 2025</b> at <b>10:00 PM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
