@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1761387632336 -->
+<!-- 1761395990122 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -15,7 +15,7 @@
 <a href="https://www.threads.com/@shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/774-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/774-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/774-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
 <!-- END THREADS-FOLLOWERS -->
 <!-- BEGIN INSTAGRAM-FOLLOWERS -->
-<a href="https://instagram.com/shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/541-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/541-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/541-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" alt="Follow me on Instagram" title="Follow me on Instagram"/></picture></a>
+<a href="https://instagram.com/shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/542-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/542-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/542-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" alt="Follow me on Instagram" title="Follow me on Instagram"/></picture></a>
 <!-- END INSTAGRAM-FOLLOWERS -->
 </p>
 
@@ -80,7 +80,7 @@ Is it funny to say that **JavaScript** was the first programming language I lear
 
 <p align="center">
 <!-- BEGIN YOUTUBE-SUBS -->
-<a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg?sub_confirmation=1"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/104-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/104-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/104-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel"/></picture></a>
+<a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg?sub_confirmation=1"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel"/></picture></a>
 <!-- END YOUTUBE-SUBS -->
 <!-- BEGIN YOUTUBE-VIEWS -->
 <a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/5.7K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/5.7K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/5.7K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" alt="Total YouTube views" title="Total YouTube views"/></picture></a>
@@ -133,5 +133,5 @@ This section features all of my microcontroller and microprocessor-based project
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>October 25, 2025</b> at <b>4:20 PM BST</b>.</p>
+<p>This Readme file was last updated on <b>October 25, 2025</b> at <b>6:39 PM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
