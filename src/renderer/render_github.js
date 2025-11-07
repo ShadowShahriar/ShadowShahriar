@@ -16,6 +16,8 @@ const github_stargazers = async (stars, repo) => {
 	const max_people = 10
 	const { count, count_int, people } = stars
 
+	if (!count_int) return `<p>No one ⭐ starred this repository, which is kinda sad...</p>`
+
 	const noun = count_int === 1 ? 'person' : 'people'
 	const more = count_int > max_people ? ' including...' : '.'
 	const caption = `<b>${count} ${noun}</b> ⭐ <a href="https://github.com/${repo}">starred this repository</a>${more}`
