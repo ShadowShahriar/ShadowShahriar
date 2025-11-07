@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1762525330104 -->
+<!-- 1762532726380 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -12,10 +12,10 @@
 <a href="#"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/20.7K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/20.7K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/20.7K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" alt="GitHub Profile Views" title="GitHub Profile Views"/></picture></a>
 <!-- END GITHUB-PROFILE-VIEWS -->
 <!-- BEGIN THREADS-FOLLOWERS -->
-<a href="https://www.threads.com/@shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/770-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/770-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/770-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
+<a href="https://www.threads.com/@shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/772-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/772-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/772-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
 <!-- END THREADS-FOLLOWERS -->
 <!-- BEGIN INSTAGRAM-FOLLOWERS -->
-<a href="https://instagram.com/shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/546-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/546-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/546-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" alt="Follow me on Instagram" title="Follow me on Instagram"/></picture></a>
+<a href="https://instagram.com/shadowshahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/549-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/549-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/549-black/?label=Instagram&logo=instagram&color=e23167&logoColor=white&labelColor=d02167&style=for-the-badge" alt="Follow me on Instagram" title="Follow me on Instagram"/></picture></a>
 <!-- END INSTAGRAM-FOLLOWERS -->
 </p>
 
@@ -127,10 +127,10 @@ This section features all of my microcontroller and microprocessor-based project
 #### About This Project
 
 <!-- BEGIN GITHUB-STARS -->
-<p><b>8 people</b> ⭐ <a href="https://github.com/ShadowShahriar/ShadowShahriar">starred this repository</a>.</p>
-<p align="left"><a href="https://github.com/kaniz-codes"><img src="https://avatars.githubusercontent.com/u/138873297?v=4" width="40px" title="@kaniz-codes"/></a> <a href="https://github.com/Krist22"><img src="https://avatars.githubusercontent.com/u/87985901?v=4" width="40px" title="@Krist22"/></a> <a href="https://github.com/BaHithBENON"><img src="https://avatars.githubusercontent.com/u/52800154?v=4" width="40px" title="@BaHithBENON"/></a> <a href="https://github.com/Heidi372"><img src="https://avatars.githubusercontent.com/u/75943262?v=4" width="40px" title="@Heidi372"/></a> <a href="https://github.com/nonakav"><img src="https://avatars.githubusercontent.com/u/212370950?v=4" width="40px" title="@nonakav"/></a> <a href="https://github.com/blvckX-chk"><img src="https://avatars.githubusercontent.com/u/60050505?v=4" width="40px" title="@blvckX-chk"/></a> <a href="https://github.com/underscoDe"><img src="https://avatars.githubusercontent.com/u/65609383?v=4" width="40px" title="@underscoDe"/></a> <a href="https://github.com/ShadowShahriar"><img src="https://avatars.githubusercontent.com/u/79012744?v=4" width="40px" title="@ShadowShahriar"/></a> </p>
+<p><b>NaN people</b> ⭐ <a href="https://github.com/ShadowShahriar/ShadowShahriar">starred this repository</a>.</p>
+<p align="left"></p>
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>November 7, 2025</b> at <b>8:22 PM BST</b>.</p>
+<p>This Readme file was last updated on <b>November 7, 2025</b> at <b>10:25 PM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
