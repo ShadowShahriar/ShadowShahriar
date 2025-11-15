@@ -31,10 +31,18 @@ async function main() {
 	console.log('YouTube stats:  ', yt_stats, '\t\t\t(subscribers, views)')
 
 	const th_stats = await threads_stats()
-	console.log('Threads stats:  ', th_stats, '\t\t(followers, views, likes)')
+	if (!th_stats[0]) {
+		console.log('Threads stats:  ', '⛔ Error')
+	} else {
+		console.log('Threads stats:  ', th_stats, '\t\t(followers, views, likes)')
+	}
 
 	const ig_stats = await instagram_stats()
-	console.log('Instagram stats:', ig_stats, '\t\t(followers, username)')
+	if (ig_stats.username) {
+		console.log('Instagram stats:', ig_stats, '\t\t(followers, username)')
+	} else {
+		console.log('Instagram stats:', '⛔ Error')
+	}
 
 	const wk_user = process.env.WAKATIME_USER_NAME
 	console.log('')
