@@ -9,8 +9,12 @@ export async function threads_stats() {
 	const access_token = process.env.THREADS_ACCESS_TOKEN
 
 	const req = await fetch(serialize(api, { metric, since, access_token }))
-	const { data } = await req.json()
+	if (req.status != 200) {
+		console.log(req.headers.get('WWW-Authenticate'))
+		return [null, null, null]
+	}
 
+	const { data } = await req.json()
 	const views = data[0].values
 	const totalViews = views.reduce((sum, item) => sum + item.value, 0)
 	const followers = data[1].total_value.value

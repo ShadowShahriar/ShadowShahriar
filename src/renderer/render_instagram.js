@@ -3,6 +3,8 @@ import { shield } from './shield.js'
 import { instagram_stats } from '../api/instagram.js'
 
 const instagram_shield = (data, cfg) => {
+	if (!data || !data[1]) return ''
+
 	const alt = 'Follow me on Instagram'
 	const { src_light } = shield(
 		data[0],

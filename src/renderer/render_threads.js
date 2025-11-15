@@ -3,6 +3,8 @@ import { shield } from './shield.js'
 import { threads_stats } from '../api/threads.js'
 
 const threads_shield = (data, cfg, usr) => {
+	if (!data) return ''
+
 	const alt = 'Follow me on Threads'
 	const { src_light, src_dark } = shield(
 		data,

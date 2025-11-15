@@ -7,6 +7,10 @@ export async function instagram_stats() {
 	const access_token = process.env.INSTAGRAM_ACCESS_TOKEN
 
 	const req = await fetch(serialize(api, { fields, access_token }))
+	if (req.status != 200) {
+		console.log(req.headers.get('WWW-Authenticate'))
+		return [null, null]
+	}
 	const { followers_count, username } = await req.json()
 
 	return [shortnum(followers_count), username]
