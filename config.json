@@ -52,7 +52,7 @@
 			}
 		},
 		"COMP-STATS": {
-			"api": "https://github-readme-stats.vercel.app/api",
+			"api": "https://readme-stats-shadowshahriar.vercel.app/api",
 			"alt": "<!-- GitHub Stats -->",
 			"sizes": [100, 47],
 			"opts": {
@@ -65,7 +65,7 @@
 			}
 		},
 		"COMP-LANG": {
-			"api": "https://github-readme-stats.vercel.app/api/top-langs",
+			"api": "https://readme-stats-shadowshahriar.vercel.app/api/top-langs",
 			"alt": "<!-- Language Stats -->",
 			"sizes": [100, 32],
 			"opts": {
@@ -75,7 +75,7 @@
 			}
 		},
 		"COMP-TIME": {
-			"api": "https://github-readme-stats.vercel.app/api/wakatime",
+			"api": "https://readme-stats-shadowshahriar.vercel.app/api/wakatime",
 			"alt": "<!-- Time Spend -->",
 			"sizes": [100, 62],
 			"align": "top",
