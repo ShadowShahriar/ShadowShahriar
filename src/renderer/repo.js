@@ -1,5 +1,5 @@
 import { serialize } from '../utils.js'
-const pinned_repo_endpoint = 'https://github-readme-stats.vercel.app/api/pin'
+const pinned_repo_endpoint = 'https://readme-stats-shadowshahriar.vercel.app/api/pin'
 
 export const repo = (obj, theme) => {
 	const sec = obj[0].split('/')
