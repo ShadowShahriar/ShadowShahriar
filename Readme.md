@@ -1,12 +1,12 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1764700396569 -->
+<!-- 1764707145870 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
 
 <p align="center">
 <!-- BEGIN TOTAL-TIME -->
-<a href="https://wakatime.com/@ShadowShahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/528%20hrs%2017%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/528%20hrs%2017%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/528%20hrs%2017%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" alt="Total time coded" title="Total time coded"/></picture></a>
+<a href="https://wakatime.com/@ShadowShahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/533%20hrs%2043%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/533%20hrs%2043%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/533%20hrs%2043%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" alt="Total time coded" title="Total time coded"/></picture></a>
 <!-- END TOTAL-TIME -->
 <!-- BEGIN GITHUB-PROFILE-VIEWS -->
 <a href="#"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/21K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/21K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/21K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" alt="GitHub Profile Views" title="GitHub Profile Views"/></picture></a>
@@ -82,7 +82,7 @@ Unfortunately, I couldn't code today 🙁
 <a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg?sub_confirmation=1"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel"/></picture></a>
 <!-- END YOUTUBE-SUBS -->
 <!-- BEGIN YOUTUBE-VIEWS -->
-<a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/6.2K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/6.2K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/6.2K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" alt="Total YouTube views" title="Total YouTube views"/></picture></a>
+<a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/6.3K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/6.3K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/6.3K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" alt="Total YouTube views" title="Total YouTube views"/></picture></a>
 <!-- END YOUTUBE-VIEWS -->
 </p>
 
@@ -132,5 +132,5 @@ This section features all of my microcontroller and microprocessor-based project
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>December 3, 2025</b> at <b>12:33 AM BST</b>.</p>
+<p>This Readme file was last updated on <b>December 3, 2025</b> at <b>2:25 AM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
