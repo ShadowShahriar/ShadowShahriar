@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1764879843558 -->
+<!-- 1764880451606 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -48,7 +48,7 @@ Is it funny to say that **JavaScript** was the first programming language I lear
 
 <p align="center">
 <!-- BEGIN COMP-STREAK -->
-<picture><source srcset="https://github-readme-streak-stats-seven-azure.vercel.app/?theme=rose_pine&hide_border=true&user=ShadowShahriar&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(max-width: 768px)" width="100%"/><source srcset="https://github-readme-streak-stats-seven-azure.vercel.app/?theme=rose_pine&hide_border=true&user=ShadowShahriar&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(prefers-color-scheme: dark)" width="47%"/><img src="https://github-readme-streak-stats-seven-azure.vercel.app/?theme=default&hide_border=false&user=ShadowShahriar&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" width="47%" alt="<!-- Streak Stats -->"/></picture>
+<picture><source srcset="https://readme-streak-stats-shadowshahriar.vercel.app/?theme=rose_pine&hide_border=true&user=ShadowShahriar&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(max-width: 768px)" width="100%"/><source srcset="https://readme-streak-stats-shadowshahriar.vercel.app/?theme=rose_pine&hide_border=true&user=ShadowShahriar&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" media="(prefers-color-scheme: dark)" width="47%"/><img src="https://readme-streak-stats-shadowshahriar.vercel.app/?theme=default&hide_border=false&user=ShadowShahriar&border_radius=5&date_format=j%20M%5B%20Y%5D&card_height=207" width="47%" alt="<!-- Streak Stats -->"/></picture>
 <!-- END COMP-STREAK -->
 <!-- BEGIN COMP-STATS -->
 <picture><source srcset="https://readme-stats-shadowshahriar.vercel.app/api/?theme=rose_pine&hide_border=true&username=ShadowShahriar&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=percentile" media="(max-width: 768px)" width="100%"/><source srcset="https://readme-stats-shadowshahriar.vercel.app/api/?theme=rose_pine&hide_border=true&username=ShadowShahriar&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=percentile" media="(prefers-color-scheme: dark)" width="47%"/><img src="https://readme-stats-shadowshahriar.vercel.app/api/?theme=default&hide_border=false&username=ShadowShahriar&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&rank_icon=percentile" width="47%" alt="<!-- GitHub Stats -->"/></picture>
@@ -132,5 +132,5 @@ This section features all of my microcontroller and microprocessor-based project
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>December 5, 2025</b> at <b>2:24 AM BST</b>.</p>
+<p>This Readme file was last updated on <b>December 5, 2025</b> at <b>2:34 AM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
