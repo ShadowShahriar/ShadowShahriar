@@ -41,7 +41,7 @@
 	},
 	"components": {
 		"COMP-STREAK": {
-			"api": "https://github-readme-streak-stats-seven-azure.vercel.app",
+			"api": "https://readme-streak-stats-shadowshahriar.vercel.app",
 			"alt": "<!-- Streak Stats -->",
 			"sizes": [100, 47],
 			"opts": {
