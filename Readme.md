@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1765088932437 -->
+<!-- 1765095885117 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -82,7 +82,7 @@ Unfortunately, I couldn't code today 🙁
 <a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg?sub_confirmation=1"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel"/></picture></a>
 <!-- END YOUTUBE-SUBS -->
 <!-- BEGIN YOUTUBE-VIEWS -->
-<a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/6.4K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/6.4K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/6.4K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" alt="Total YouTube views" title="Total YouTube views"/></picture></a>
+<a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/6.3K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/6.3K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/6.3K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" alt="Total YouTube views" title="Total YouTube views"/></picture></a>
 <!-- END YOUTUBE-VIEWS -->
 </p>
 
@@ -127,10 +127,9 @@ This section features all of my microcontroller and microprocessor-based project
 #### About This Project
 
 <!-- BEGIN GITHUB-STARS -->
-<p><b>8 people</b> ⭐ <a href="https://github.com/ShadowShahriar/ShadowShahriar">starred this repository</a>.</p>
-<p align="left"><a href="https://github.com/kaniz-codes"><img src="https://avatars.githubusercontent.com/u/138873297?v=4" width="40px" title="@kaniz-codes"/></a> <a href="https://github.com/Krist22"><img src="https://avatars.githubusercontent.com/u/87985901?v=4" width="40px" title="@Krist22"/></a> <a href="https://github.com/BaHithBENON"><img src="https://avatars.githubusercontent.com/u/52800154?v=4" width="40px" title="@BaHithBENON"/></a> <a href="https://github.com/Heidi372"><img src="https://avatars.githubusercontent.com/u/75943262?v=4" width="40px" title="@Heidi372"/></a> <a href="https://github.com/nonakav"><img src="https://avatars.githubusercontent.com/u/212370950?v=4" width="40px" title="@nonakav"/></a> <a href="https://github.com/blvckX-chk"><img src="https://avatars.githubusercontent.com/u/60050505?v=4" width="40px" title="@blvckX-chk"/></a> <a href="https://github.com/underscoDe"><img src="https://avatars.githubusercontent.com/u/65609383?v=4" width="40px" title="@underscoDe"/></a> <a href="https://github.com/ShadowShahriar"><img src="https://avatars.githubusercontent.com/u/79012744?v=4" width="40px" title="@ShadowShahriar"/></a> </p>
+<p>No one ⭐ starred this repository, which is kinda sad...</p>
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>December 7, 2025</b> at <b>12:28 PM BST</b>.</p>
+<p>This Readme file was last updated on <b>December 7, 2025</b> at <b>2:24 PM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
