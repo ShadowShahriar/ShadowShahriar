@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1765297675048 -->
+<!-- 1765304885776 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -12,7 +12,7 @@
 <a href="#"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/21.1K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/21.1K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/21.1K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" alt="GitHub Profile Views" title="GitHub Profile Views"/></picture></a>
 <!-- END GITHUB-PROFILE-VIEWS -->
 <!-- BEGIN THREADS-FOLLOWERS -->
-<a href="https://www.threads.com/@null"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/778-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/778-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/778-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
+<a href="https://www.threads.com/@null"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/776-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/776-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/776-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
 <!-- END THREADS-FOLLOWERS -->
 <!-- BEGIN INSTAGRAM-FOLLOWERS -->
 
@@ -62,7 +62,7 @@ Is it funny to say that **JavaScript** was the first programming language I lear
 </p>
 
 <!-- BEGIN ACTIVE-TODAY -->
-<p>In case you were wondering, today I coded for <b>16 mins</b> and I was last active at <b>9:27 PM</b> 😉</p>
+Unfortunately, I couldn't code today 🙁
 <!-- END ACTIVE-TODAY -->
 
 ---
@@ -127,9 +127,10 @@ This section features all of my microcontroller and microprocessor-based project
 #### About This Project
 
 <!-- BEGIN GITHUB-STARS -->
-<p>No one ⭐ starred this repository, which is kinda sad...</p>
+<p><b>8 people</b> ⭐ <a href="https://github.com/ShadowShahriar/ShadowShahriar">starred this repository</a>.</p>
+<p align="left"><a href="https://github.com/kaniz-codes"><img src="https://avatars.githubusercontent.com/u/138873297?v=4" width="40px" title="@kaniz-codes"/></a> <a href="https://github.com/Krist22"><img src="https://avatars.githubusercontent.com/u/87985901?v=4" width="40px" title="@Krist22"/></a> <a href="https://github.com/BaHithBENON"><img src="https://avatars.githubusercontent.com/u/52800154?v=4" width="40px" title="@BaHithBENON"/></a> <a href="https://github.com/Heidi372"><img src="https://avatars.githubusercontent.com/u/75943262?v=4" width="40px" title="@Heidi372"/></a> <a href="https://github.com/nonakav"><img src="https://avatars.githubusercontent.com/u/212370950?v=4" width="40px" title="@nonakav"/></a> <a href="https://github.com/blvckX-chk"><img src="https://avatars.githubusercontent.com/u/60050505?v=4" width="40px" title="@blvckX-chk"/></a> <a href="https://github.com/underscoDe"><img src="https://avatars.githubusercontent.com/u/65609383?v=4" width="40px" title="@underscoDe"/></a> <a href="https://github.com/ShadowShahriar"><img src="https://avatars.githubusercontent.com/u/79012744?v=4" width="40px" title="@ShadowShahriar"/></a> </p>
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>December 9, 2025</b> at <b>10:27 PM BST</b>.</p>
+<p>This Readme file was last updated on <b>December 10, 2025</b> at <b>12:28 AM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
