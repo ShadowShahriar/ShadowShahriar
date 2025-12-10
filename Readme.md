@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1765348431309 -->
+<!-- 1765355374178 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -127,10 +127,9 @@ This section features all of my microcontroller and microprocessor-based project
 #### About This Project
 
 <!-- BEGIN GITHUB-STARS -->
-<p><b>8 people</b> ⭐ <a href="https://github.com/ShadowShahriar/ShadowShahriar">starred this repository</a>.</p>
-<p align="left"><a href="https://github.com/kaniz-codes"><img src="https://avatars.githubusercontent.com/u/138873297?v=4" width="40px" title="@kaniz-codes"/></a> <a href="https://github.com/Krist22"><img src="https://avatars.githubusercontent.com/u/87985901?v=4" width="40px" title="@Krist22"/></a> <a href="https://github.com/BaHithBENON"><img src="https://avatars.githubusercontent.com/u/52800154?v=4" width="40px" title="@BaHithBENON"/></a> <a href="https://github.com/Heidi372"><img src="https://avatars.githubusercontent.com/u/75943262?v=4" width="40px" title="@Heidi372"/></a> <a href="https://github.com/nonakav"><img src="https://avatars.githubusercontent.com/u/212370950?v=4" width="40px" title="@nonakav"/></a> <a href="https://github.com/blvckX-chk"><img src="https://avatars.githubusercontent.com/u/60050505?v=4" width="40px" title="@blvckX-chk"/></a> <a href="https://github.com/underscoDe"><img src="https://avatars.githubusercontent.com/u/65609383?v=4" width="40px" title="@underscoDe"/></a> <a href="https://github.com/ShadowShahriar"><img src="https://avatars.githubusercontent.com/u/79012744?v=4" width="40px" title="@ShadowShahriar"/></a> </p>
+<p>No one ⭐ starred this repository, which is kinda sad...</p>
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>December 10, 2025</b> at <b>12:33 PM BST</b>.</p>
+<p>This Readme file was last updated on <b>December 10, 2025</b> at <b>2:29 PM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
