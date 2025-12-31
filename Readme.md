@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1767198393949 -->
+<!-- 1767205831044 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -12,7 +12,7 @@
 <a href="#"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/21.4K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/21.4K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/21.4K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" alt="GitHub Profile Views" title="GitHub Profile Views"/></picture></a>
 <!-- END GITHUB-PROFILE-VIEWS -->
 <!-- BEGIN THREADS-FOLLOWERS -->
-<a href="https://www.threads.com/@null"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/788-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/788-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/788-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
+<a href="https://www.threads.com/@null"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/786-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/786-black/?label=Threads&logo=threads&color=e4e4e4&logoColor=black&labelColor=ffffff&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/786-black/?label=Threads&logo=threads&color=000000&logoColor=white&labelColor=000000&style=for-the-badge" alt="Follow me on Threads" title="Follow me on Threads"/></picture></a>
 <!-- END THREADS-FOLLOWERS -->
 <!-- BEGIN INSTAGRAM-FOLLOWERS -->
 
@@ -82,7 +82,7 @@ Unfortunately, I couldn't code today 🙁
 <a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg?sub_confirmation=1"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/105-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel"/></picture></a>
 <!-- END YOUTUBE-SUBS -->
 <!-- BEGIN YOUTUBE-VIEWS -->
-<a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/6.7K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/6.7K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/6.7K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" alt="Total YouTube views" title="Total YouTube views"/></picture></a>
+<a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/6.8K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/6.8K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/6.8K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" alt="Total YouTube views" title="Total YouTube views"/></picture></a>
 <!-- END YOUTUBE-VIEWS -->
 </p>
 
@@ -132,5 +132,5 @@ This section features all of my microcontroller and microprocessor-based project
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>December 31, 2025</b> at <b>10:26 PM BST</b>.</p>
+<p>This Readme file was last updated on <b>January 1, 2026</b> at <b>12:30 AM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
