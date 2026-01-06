@@ -20,14 +20,13 @@
 	},
 	"pinned": {
 		"PINNED-UNIVERSITY-ARCHIVE": [
-			["ShadowShahriar/cse102", 3],
-			["ShadowShahriar/cse112", 3],
-			["ShadowShahriar/cse222", 3],
-			["ShadowShahriar/cp200", 3],
+			["ShadowShahriar/cse342", 3],
+			["ShadowShahriar/cse318", 3],
+			["ShadowShahriar/cse320", 3],
 			["ShadowShahriar/cse208", 3],
 			["ShadowShahriar/cse210", 3],
-			["ShadowShahriar/cse215", 3],
-			["ShadowShahriar/cse232", 3],
+			["ShadowShahriar/cse102", 3],
+			["ShadowShahriar/cse112", 3],
 			["ShadowShahriar/py200", 2]
 		],
 		"PINNED-EXPERIMENTS-ARCHIVE": [
