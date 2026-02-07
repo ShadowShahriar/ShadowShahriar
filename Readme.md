@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1770446527817 -->
+<!-- 1770453136024 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -79,7 +79,7 @@ Unfortunately, I couldn't code today 🙁
 
 <p align="center">
 <!-- BEGIN YOUTUBE-SUBS -->
-<a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg?sub_confirmation=1"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/110-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/110-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/110-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel"/></picture></a>
+<a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg?sub_confirmation=1"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/109-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/109-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/109-black/?label=Subscribe&logo=video&color=E05D44&logoColor=white&labelColor=CE4630&style=for-the-badge" alt="Subscribe to my YouTube channel" title="Subscribe to my YouTube channel"/></picture></a>
 <!-- END YOUTUBE-SUBS -->
 <!-- BEGIN YOUTUBE-VIEWS -->
 <a href="https://www.youtube.com/channel/UCxm6GfcDbRHcUfQJSJiLXyg"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/7.2K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/7.2K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/7.2K-black/?label=Views&logo=eye&color=1f6feb&logoColor=white&labelColor=004feb&style=for-the-badge" alt="Total YouTube views" title="Total YouTube views"/></picture></a>
@@ -132,5 +132,5 @@ This section features all of my microcontroller and microprocessor-based project
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>February 7, 2026</b> at <b>12:42 PM BST</b>.</p>
+<p>This Readme file was last updated on <b>February 7, 2026</b> at <b>2:32 PM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
