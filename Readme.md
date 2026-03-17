@@ -1,5 +1,5 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1773724876536 -->
+<!-- 1773731112818 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
@@ -73,7 +73,6 @@ Unfortunately, I couldn't code today 🙁
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=ONDhFUWcik0"><picture><source srcset="https://ytcards.demolab.com/?id=ONDhFUWcik0&title=I%20made%20this%20OLED%20Display%20Charm%20for%20my%20best%20friend!%20%F0%9F%99%8C%F0%9F%8F%BC&timestamp=1746971986&duration=286&lang=en&max_title_lines=2&border_radius=5&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede" media="(max-width: 768px)" width="90%"/><source srcset="https://ytcards.demolab.com/?id=ONDhFUWcik0&title=I%20made%20this%20OLED%20Display%20Charm%20for%20my%20best%20friend!%20%F0%9F%99%8C%F0%9F%8F%BC&timestamp=1746971986&duration=286&lang=en&max_title_lines=2&border_radius=5&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede" media="(prefers-color-scheme: dark)" width="250px"/><img src="https://ytcards.demolab.com/?id=ONDhFUWcik0&title=I%20made%20this%20OLED%20Display%20Charm%20for%20my%20best%20friend!%20%F0%9F%99%8C%F0%9F%8F%BC&timestamp=1746971986&duration=286&lang=en&max_title_lines=2&border_radius=5&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a" alt="I made this OLED Display Charm for my best friend! 🙌🏼" title="I made this OLED Display Charm for my best friend! 🙌🏼" width="250px"/></picture></a>
 <a href="https://www.youtube.com/watch?v=uxGKJFrnxT0"><picture><source srcset="https://ytcards.demolab.com/?id=uxGKJFrnxT0&title=Getting%20my%20hands%20on%20the%20Raspberry%20Pi%205!&timestamp=1743068932&duration=81&lang=en&max_title_lines=2&border_radius=5&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede" media="(max-width: 768px)" width="90%"/><source srcset="https://ytcards.demolab.com/?id=uxGKJFrnxT0&title=Getting%20my%20hands%20on%20the%20Raspberry%20Pi%205!&timestamp=1743068932&duration=81&lang=en&max_title_lines=2&border_radius=5&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede" media="(prefers-color-scheme: dark)" width="250px"/><img src="https://ytcards.demolab.com/?id=uxGKJFrnxT0&title=Getting%20my%20hands%20on%20the%20Raspberry%20Pi%205!&timestamp=1743068932&duration=81&lang=en&max_title_lines=2&border_radius=5&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a" alt="Getting my hands on the Raspberry Pi 5!" title="Getting my hands on the Raspberry Pi 5!" width="250px"/></picture></a>
-<a href="https://www.youtube.com/watch?v=z3SybJJjSa8"><picture><source srcset="https://ytcards.demolab.com/?id=z3SybJJjSa8&title=NASA%20Space%20Apps%20Challenge%202025%20%7C%20Team%20Stargazers&timestamp=1756807232&duration=141&lang=en&max_title_lines=2&border_radius=5&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede" media="(max-width: 768px)" width="90%"/><source srcset="https://ytcards.demolab.com/?id=z3SybJJjSa8&title=NASA%20Space%20Apps%20Challenge%202025%20%7C%20Team%20Stargazers&timestamp=1756807232&duration=141&lang=en&max_title_lines=2&border_radius=5&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede" media="(prefers-color-scheme: dark)" width="250px"/><img src="https://ytcards.demolab.com/?id=z3SybJJjSa8&title=NASA%20Space%20Apps%20Challenge%202025%20%7C%20Team%20Stargazers&timestamp=1756807232&duration=141&lang=en&max_title_lines=2&border_radius=5&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a" alt="NASA Space Apps Challenge 2025 | Team Stargazers" title="NASA Space Apps Challenge 2025 | Team Stargazers" width="250px"/></picture></a>
 <!-- END YOUTUBE-CARDS -->
 </p>
 
@@ -132,5 +131,5 @@ This section features all of my microcontroller and microprocessor-based project
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>March 17, 2026</b> at <b>11:21 AM BST</b>.</p>
+<p>This Readme file was last updated on <b>March 17, 2026</b> at <b>1:05 PM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
