@@ -1,12 +1,12 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1776019852404 -->
+<!-- 1776026203790 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
 
 <p align="center">
 <!-- BEGIN TOTAL-TIME -->
-<a href="https://wakatime.com/@ShadowShahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/586%20hrs%2019%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/586%20hrs%2019%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/586%20hrs%2019%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" alt="Total time coded" title="Total time coded"/></picture></a>
+<a href="https://wakatime.com/@ShadowShahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/588%20hrs%2025%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/588%20hrs%2025%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/588%20hrs%2025%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" alt="Total time coded" title="Total time coded"/></picture></a>
 <!-- END TOTAL-TIME -->
 <!-- BEGIN GITHUB-PROFILE-VIEWS -->
 <a href="#"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/22.6K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/22.6K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/22.6K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" alt="GitHub Profile Views" title="GitHub Profile Views"/></picture></a>
@@ -129,5 +129,5 @@ This section features all of my microcontroller and microprocessor-based project
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>April 13, 2026</b> at <b>12:50 AM BST</b>.</p>
+<p>This Readme file was last updated on <b>April 13, 2026</b> at <b>2:36 AM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
