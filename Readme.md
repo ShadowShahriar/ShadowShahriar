@@ -1,12 +1,12 @@
 <!-- BEGIN LAST-UPDATED -->
-<!-- 1778089241725 -->
+<!-- 1778096752369 -->
 <!-- END LAST-UPDATED -->
 
 # Heyy! It's Shahriar
 
 <p align="center">
 <!-- BEGIN TOTAL-TIME -->
-<a href="https://wakatime.com/@ShadowShahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/650%20hrs%2021%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/650%20hrs%2021%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/650%20hrs%2021%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" alt="Total time coded" title="Total time coded"/></picture></a>
+<a href="https://wakatime.com/@ShadowShahriar"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/656%20hrs%2019%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/656%20hrs%2019%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/656%20hrs%2019%20mins-black/?label=WakaTime&logo=wakatime&color=0f81c2&logoColor=white&labelColor=5c5c5c&style=for-the-badge" alt="Total time coded" title="Total time coded"/></picture></a>
 <!-- END TOTAL-TIME -->
 <!-- BEGIN GITHUB-PROFILE-VIEWS -->
 <a href="#"><picture><source srcset="https://custom-icon-badges.demolab.com/badge/22.9K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(max-width: 768px)"/><source srcset="https://custom-icon-badges.demolab.com/badge/22.9K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" media="(prefers-color-scheme: dark)"/><img src="https://custom-icon-badges.demolab.com/badge/22.9K-black/?label=Views&logo=github&color=12472b&logoColor=909692&labelColor=232925&style=for-the-badge" alt="GitHub Profile Views" title="GitHub Profile Views"/></picture></a>
@@ -62,8 +62,7 @@ Is it funny to say that **JavaScript** was the first programming language I lear
 </p>
 
 <!-- BEGIN ACTIVE-TODAY -->
-<p>In case you were wondering, today I coded for <b>5 hrs 57 mins</b> and I was last active at <b>10:58 PM</b> 😉</p>
-<ul><li>I authored documentation for <b>5 hrs 47 mins</b>.</li><li>I coded for <b>9 mins</b>.</li></ul>
+<p>In case you were wondering, today I coded for <b>23 mins</b> and I was last active at <b>1:29 AM</b> 😉</p>
 <!-- END ACTIVE-TODAY -->
 
 ---
@@ -130,5 +129,5 @@ This section features all of my microcontroller and microprocessor-based project
 <!-- END GITHUB-STARS -->
 
 <!-- BEGIN README-LAST-UPDATED -->
-<p>This Readme file was last updated on <b>May 6, 2026</b> at <b>11:40 PM BST</b>.</p>
+<p>This Readme file was last updated on <b>May 7, 2026</b> at <b>1:45 AM BST</b>.</p>
 <!-- END README-LAST-UPDATED -->
