@@ -9,14 +9,16 @@ export const repo = (obj, theme) => {
 		repo: sec[1],
 		description_lines_count: obj[1],
 		theme: light.colorscheme,
-		hide_border: !light.border
+		hide_border: !light.border,
+		ref: new Date().getTime()
 	}
 	const repo_dark = {
 		username: sec[0],
 		repo: sec[1],
 		description_lines_count: obj[1],
 		theme: dark.colorscheme,
-		hide_border: !dark.border
+		hide_border: !dark.border,
+		ref: new Date().getTime()
 	}
 
 	const src_light = serialize(pinned_repo_endpoint, repo_light)
