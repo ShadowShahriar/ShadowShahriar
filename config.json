@@ -20,14 +20,14 @@
 	},
 	"pinned": {
 		"PINNED-UNIVERSITY-ARCHIVE": [
+			["ShadowShahriar/cse324", 3],
+			["ShadowShahriar/cse322", 3],
 			["ShadowShahriar/cse342", 3],
 			["ShadowShahriar/cse318", 3],
 			["ShadowShahriar/cse320", 3],
 			["ShadowShahriar/cse302", 3],
 			["ShadowShahriar/cse208", 3],
 			["ShadowShahriar/cse210", 3],
-			["ShadowShahriar/cse102", 3],
-			["ShadowShahriar/cse112", 3],
 			["ShadowShahriar/py200", 2]
 		],
 		"PINNED-EXPERIMENTS-ARCHIVE": [
