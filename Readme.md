@@ -2,7 +2,7 @@
 <!-- 1778788146850 -->
 <!-- END LAST-UPDATED -->
 
-# Heyy! It's Shahriar
+# Heyy! It’s Shahriar
 
 <p align="center">
 <!-- BEGIN TOTAL-TIME -->
@@ -19,16 +19,18 @@
 <!-- END INSTAGRAM-FOLLOWERS -->
 </p>
 
-I'm a **front-end developer**, **motion designer** and **illustrator** — bringing digital experiences to life through **code** and **visuals**. You can find my artworks on [**Instagram**][INSTAGRAM] and CSS experiments on [**CodePen**][CODEPEN].
+I’m a **front-end developer**, **motion designer** and **illustrator** — bringing digital experiences to life through **code** and **visuals**. You can find my artworks on [**Instagram**][INSTAGRAM] and CSS experiments on [**CodePen**][CODEPEN].
 
 Currently,
 
-- I'm working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI].
-- I'm learning **Raspberry Pi programming** and documenting my journey on [**DEV**][DEV], [**Threads**][THREADS], and [**YouTube**][YOUTUBE].
-- I'm practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
+- I’m working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI].
+- I’m learning **Raspberry Pi programming** and documenting my journey on [**DEV**][DEV], [**Threads**][THREADS], and [**YouTube**][YOUTUBE].
+- I’m practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
 
 <!-- BEGIN HIREABLE -->
+
 Yes, I am open to <b>freelancing</b> opportunities.
+
 <!-- END HIREABLE -->
 
 > [!NOTE]
