@@ -31,6 +31,7 @@ Currently,
 Yes, I am open to <b>freelancing</b> opportunities.
 <!-- END HIREABLE -->
 
+> [!NOTE]
 > If you enjoy my work and would love to see even more fun projects and resources from me in the future, I’d really appreciate any support you can offer with [**a small donation**][SKR].
 
 [INSTAGRAM]: https://instagram.com/shadowshahriar
