@@ -23,13 +23,17 @@ I'm a **front-end developer**, **motion designer** and **illustrator** — bring
 
 Currently,
 
--   I'm working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI].
--   I'm learning **Raspberry Pi programming** and documenting my journey on [**DEV**][DEV], [**Threads**][THREADS], and [**YouTube**][YOUTUBE].
--   I'm practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
+- I'm working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI].
+- I'm learning **Raspberry Pi programming** and documenting my journey on [**DEV**][DEV], [**Threads**][THREADS], and [**YouTube**][YOUTUBE].
+- I'm practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
 
 <!-- BEGIN HIREABLE -->
+
 Yes, I am open to <b>freelancing</b> opportunities.
+
 <!-- END HIREABLE -->
+
+> If you enjoy my work and would love to see even more fun projects and resources from me in the future, I’d really appreciate any support you can offer with [**a small donation**][SKR].
 
 [INSTAGRAM]: https://instagram.com/shadowshahriar
 [CODEPEN]: https://codepen.io/ShadowShahriar
@@ -39,6 +43,7 @@ Yes, I am open to <b>freelancing</b> opportunities.
 [YOUTUBE]: https://youtube.com/@ShadowShahriar
 [CODEFORCES]: https://codeforces.com/profile/shadowshahriar
 [CODECHEF]: https://www.codechef.com/users/shadowshahriar
+[SKR]: https://skr.bd/shadowshahriar
 
 ---
 

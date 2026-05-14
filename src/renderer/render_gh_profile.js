@@ -11,7 +11,7 @@ const renderHireable = (hireable, cfg) => {
 }
 
 const renderShield = (data, cfg) => {
-	const alt = 'GitHub Profile Views'
+	const alt = 'GitHub profile views'
 	const { src_light } = shield(
 		data + '',
 		cfg,
