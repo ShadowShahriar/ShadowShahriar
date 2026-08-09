@@ -20,9 +20,9 @@
 	},
 	"pinned": {
 		"PINNED-UNIVERSITY-ARCHIVE": [
-			["ShadowShahriar/cse324", 3],
-			["ShadowShahriar/cse322", 3],
 			["ShadowShahriar/cse326", 3],
+			["ShadowShahriar/cse322", 3],
+			["ShadowShahriar/cse324", 3],
 			["ShadowShahriar/py200", 3],
 			["ShadowShahriar/cse342", 3],
 			["ShadowShahriar/cse318", 3],
@@ -34,9 +34,9 @@
 		"PINNED-EXPERIMENTS-ARCHIVE": [
 			["ShadowShahriar/arduino-playground", 2],
 			["ShadowShahriar/esp32-playground", 2],
-			["ShadowShahriar/rpi-playground", 2],
-			["ShadowShahriar/oled-font-maker", 2]
-		]
+			["ShadowShahriar/rpi-playground", 2]
+		],
+		"PINNED-GENERATORS-ARCHIVE": [["ShadowShahriar/oled-font-maker", 2]]
 	},
 	"components": {
 		"COMP-STREAK": {

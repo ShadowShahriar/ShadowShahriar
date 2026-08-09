@@ -28,7 +28,9 @@ Currently,
 - I’m practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
 
 <!-- BEGIN HIREABLE -->
+
 Yes, I am open to <b>freelancing</b> opportunities.
+
 <!-- END HIREABLE -->
 
 > [!NOTE]
@@ -66,7 +68,9 @@ Is it funny to say that **JavaScript** was the first programming language I lear
 </p>
 
 <!-- BEGIN ACTIVE-TODAY -->
+
 Unfortunately, I couldn't code today 🙁
+
 <!-- END ACTIVE-TODAY -->
 
 ---
@@ -91,9 +95,9 @@ Unfortunately, I couldn't code today 🙁
 
 ---
 
-#### University Archive
+#### Course Archive
 
-This section features everything I have learned from my university courses.
+This section features everything I have learned from my university courses. I upload my class notes every week, hoping they will help my classmates who missed any classes.
 
 <p align="center">
 <!-- BEGIN PINNED-UNIVERSITY-ARCHIVE -->
@@ -110,9 +114,9 @@ This section features everything I have learned from my university courses.
 <!-- END PINNED-UNIVERSITY-ARCHIVE -->
 </p>
 
-#### Experiments Archive
+#### Circuits Playground
 
-This section features all of my microcontroller and microprocessor-based projects and experiments.
+This section features some of my test code and hardware configuration for interfacing with various kinds of microcontrollers and peripherals. These are especially insightful while working with completely new hardware or testing individual peripherals on a microcontroller.
 
 <p align="center">
 <!-- BEGIN PINNED-EXPERIMENTS-ARCHIVE -->
@@ -121,6 +125,15 @@ This section features all of my microcontroller and microprocessor-based project
 <a href="https://github.com/ShadowShahriar/rpi-playground"><picture><source srcset="https://readme-stats-shadowshahriar.vercel.app/api/pin/?username=ShadowShahriar&repo=rpi-playground&description_lines_count=2&theme=rose_pine&hide_border=true&ref=1786307484169" media="(max-width: 768px)" width="100%"/><source srcset="https://readme-stats-shadowshahriar.vercel.app/api/pin/?username=ShadowShahriar&repo=rpi-playground&description_lines_count=2&theme=rose_pine&hide_border=true&ref=1786307484169" media="(prefers-color-scheme: dark)" width="47%"/><img src="https://readme-stats-shadowshahriar.vercel.app/api/pin/?username=ShadowShahriar&repo=rpi-playground&description_lines_count=2&theme=default&hide_border=false&ref=1786307484169" width="47%" alt="<!-- Repository Card -->"/></picture></a>
 <a href="https://github.com/ShadowShahriar/oled-font-maker"><picture><source srcset="https://readme-stats-shadowshahriar.vercel.app/api/pin/?username=ShadowShahriar&repo=oled-font-maker&description_lines_count=2&theme=rose_pine&hide_border=true&ref=1786307484169" media="(max-width: 768px)" width="100%"/><source srcset="https://readme-stats-shadowshahriar.vercel.app/api/pin/?username=ShadowShahriar&repo=oled-font-maker&description_lines_count=2&theme=rose_pine&hide_border=true&ref=1786307484169" media="(prefers-color-scheme: dark)" width="47%"/><img src="https://readme-stats-shadowshahriar.vercel.app/api/pin/?username=ShadowShahriar&repo=oled-font-maker&description_lines_count=2&theme=default&hide_border=false&ref=1786307484169" width="47%" alt="<!-- Repository Card -->"/></picture></a>
 <!-- END PINNED-EXPERIMENTS-ARCHIVE -->
+</p>
+
+#### Generators
+
+This section features a few tools, code snippets and resources that will make microcontroller development much easier.
+
+<p align="center">
+<!-- BEGIN PINNED-GENERATORS-ARCHIVE -->
+<!-- END PINNED-GENERATORS-ARCHIVE -->
 </p>
 
 ---
