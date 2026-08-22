@@ -23,12 +23,14 @@ I’m a **front-end developer**, **motion designer** and **illustrator** — bri
 
 Currently,
 
-- I’m working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI].
+- I’m working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI] and writing tutorials on [**Instructables**][INST].
 - I’m learning **Raspberry Pi programming** and documenting my journey on [**DEV**][DEV], [**Threads**][THREADS], and [**YouTube**][YOUTUBE].
 - I’m practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
 
 <!-- BEGIN HIREABLE -->
+
 Yes, I am open to <b>freelancing</b> opportunities.
+
 <!-- END HIREABLE -->
 
 > [!NOTE]
@@ -43,6 +45,7 @@ Yes, I am open to <b>freelancing</b> opportunities.
 [CODEFORCES]: https://codeforces.com/profile/shadowshahriar
 [CODECHEF]: https://www.codechef.com/users/shadowshahriar
 [SKR]: https://skr.bd/shadowshahriar
+[INST]: https://www.instructables.com/member/shadowshahriar
 
 ---
 
@@ -66,7 +69,9 @@ Is it funny to say that **JavaScript** was the first programming language I lear
 </p>
 
 <!-- BEGIN ACTIVE-TODAY -->
+
 Unfortunately, I couldn't code today 🙁
+
 <!-- END ACTIVE-TODAY -->
 
 ---
