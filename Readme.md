@@ -23,12 +23,14 @@ I’m a **front-end developer**, **motion designer** and **illustrator** — bri
 
 Currently,
 
-- I’m working on **Arduino** and **ESP32**-related projects on [**Wokwi**][WOKWI] and writing tutorials on [**Instructables**][INST].
+- I’m working on **Arduino** and **ESP32** projects on [**Wokwi**][WOKWI] and writing tutorials on [**Instructables**][INST].
 - I’m learning **Raspberry Pi programming** and documenting my journey on [**DEV**][DEV], [**Threads**][THREADS], and [**YouTube**][YOUTUBE].
 - I’m practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
 
 <!-- BEGIN HIREABLE -->
+
 Yes, I am open to <b>freelancing</b> opportunities.
+
 <!-- END HIREABLE -->
 
 > [!NOTE]
