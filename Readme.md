@@ -114,6 +114,8 @@ This section features everything I have learned from my university courses. I up
 <!-- END PINNED-UNIVERSITY-ARCHIVE -->
 </p>
 
+[**↪ See all course repositories**](https://github.com/ShadowShahriar?tab=repositories&q=cse&type=&language=&sort=)
+
 #### Circuits Playground
 
 This section features some of my test code and hardware configuration for interfacing with various kinds of microcontrollers and peripherals. These are especially insightful while working with completely new hardware or testing individual peripherals on a microcontroller.
