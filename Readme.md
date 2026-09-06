@@ -28,7 +28,9 @@ Currently,
 - I’m practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
 
 <!-- BEGIN HIREABLE -->
+
 Yes, I am open to <b>freelancing</b> opportunities.
+
 <!-- END HIREABLE -->
 
 > [!NOTE]
@@ -134,6 +136,15 @@ This section features a few tools, code snippets and resources that will make mi
 <a href="https://github.com/ShadowShahriar/oled-font-maker"><picture><source srcset="https://readme-stats-shadowshahriar.vercel.app/api/pin/?username=ShadowShahriar&repo=oled-font-maker&description_lines_count=2&theme=rose_pine&hide_border=true&ref=1788664327194" media="(max-width: 768px)" width="100%"/><source srcset="https://readme-stats-shadowshahriar.vercel.app/api/pin/?username=ShadowShahriar&repo=oled-font-maker&description_lines_count=2&theme=rose_pine&hide_border=true&ref=1788664327194" media="(prefers-color-scheme: dark)" width="47%"/><img src="https://readme-stats-shadowshahriar.vercel.app/api/pin/?username=ShadowShahriar&repo=oled-font-maker&description_lines_count=2&theme=default&hide_border=false&ref=1788664327194" width="47%" alt="<!-- Repository Card -->"/></picture></a>
 <a href="#PINNED-GENERATORS-ARCHIVE"><picture><source srcset="placeholder.svg" media="(max-width: 768px)" width="0%" height="0%"/><img src="placeholder.svg" width="47%" alt="<!-- Empty Card -->"/></picture></a>
 <!-- END PINNED-GENERATORS-ARCHIVE -->
+</p>
+
+#### Arduino Libraries
+
+This section contains featured libraries that I made for the Arduino platform.
+
+<p align="center">
+<!-- BEGIN PINNED-LIBRARY-ARCHIVE -->
+<!-- END PINNED-LIBRARY-ARCHIVE -->
 </p>
 
 ---

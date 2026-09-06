@@ -36,7 +36,8 @@
 			["ShadowShahriar/esp32-playground", 2],
 			["ShadowShahriar/rpi-playground", 2]
 		],
-		"PINNED-GENERATORS-ARCHIVE": [["ShadowShahriar/oled-font-maker", 2]]
+		"PINNED-GENERATORS-ARCHIVE": [["ShadowShahriar/oled-font-maker", 2]],
+		"PINNED-LIBRARY-ARCHIVE": [["ShadowShahriar/Candle", 3]]
 	},
 	"components": {
 		"COMP-STREAK": {
