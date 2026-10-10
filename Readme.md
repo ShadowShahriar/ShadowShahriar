@@ -28,7 +28,9 @@ Currently,
 - I’m practicing competitive programming regularly on [**CodeForces**][CODEFORCES] and sometimes on [**CodeChef**][CODECHEF].
 
 <!-- BEGIN HIREABLE -->
+
 Yes, I am open to <b>freelancing</b> opportunities.
+
 <!-- END HIREABLE -->
 
 > [!NOTE]
@@ -96,6 +98,8 @@ Is it funny to say that **JavaScript** was the first programming language I lear
 #### Course Archive
 
 This section features everything I have learned from my university courses. I upload my class notes every week, hoping they will help my classmates who missed any classes.
+
+> **Note:** Class notes from the seventh semester are no longer available.
 
 <p align="center">
 <!-- BEGIN PINNED-UNIVERSITY-ARCHIVE -->
