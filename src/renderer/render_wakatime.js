@@ -14,9 +14,9 @@ const wakatime_shield = (usr, data, cfg) => {
 
 	return (
 		`<a href="https://wakatime.com/@${usr}"><picture>` +
-		`<source srcset="${src_dark}" media="(max-width: 768px)"/>` +
-		`<source srcset="${src_dark}" media="(prefers-color-scheme: dark)"/>` +
-		`<img src="${src_light}" alt="${alt}" title="${alt}"/></picture></a>`
+		`<source srcset="${src_dark}&t=${Math.floor(Math.random() * 1000)}" media="(max-width: 768px)"/>` +
+		`<source srcset="${src_dark}&t=${Math.floor(Math.random() * 1000)}" media="(prefers-color-scheme: dark)"/>` +
+		`<img src="${src_light}&t=${Math.floor(Math.random() * 1000)}" alt="${alt}" title="${alt}"/></picture></a>`
 	)
 }
 
