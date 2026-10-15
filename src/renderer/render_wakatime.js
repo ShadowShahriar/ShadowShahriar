@@ -7,16 +7,16 @@ const wakatime_shield = (usr, data, cfg) => {
 	const { src_light, src_dark } = shield(
 		data,
 		cfg,
-		{ label: 'WakaTime', logo: 'wakatime' },
+		{ label: 'WakaTime', logo: 'wakatime', t: Math.floor(Math.random() * 1000) },
 		{ color: '0f81c2', logoColor: 'white', labelColor: '5c5c5c' },
 		{ color: '0f81c2', logoColor: 'white', labelColor: '5c5c5c' }
 	)
 
 	return (
 		`<a href="https://wakatime.com/@${usr}"><picture>` +
-		`<source srcset="${src_dark}&t=${Math.floor(Math.random() * 1000)}" media="(max-width: 768px)"/>` +
-		`<source srcset="${src_dark}&t=${Math.floor(Math.random() * 1000)}" media="(prefers-color-scheme: dark)"/>` +
-		`<img src="${src_light}&t=${Math.floor(Math.random() * 1000)}" alt="${alt}" title="${alt}"/></picture></a>`
+		`<source srcset="${src_dark.replaceAll(',', '%2C')}" media="(max-width: 768px)"/>` +
+		`<source srcset="${src_dark.replaceAll(',', '%2C')}" media="(prefers-color-scheme: dark)"/>` +
+		`<img src="${src_light.replaceAll(',', '%2C')}" alt="${alt}" title="${alt}"/></picture></a>`
 	)
 }
 
